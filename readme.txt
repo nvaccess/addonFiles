@@ -4,9 +4,8 @@ if the addon is small and you dont have a place to host it, then add it
 to this git repo and push it.
 You need to make sure to have a unique key in get.php for your addon.
 
+the server pulls this repo every 10 minutes.
 then the file will be available from:
 http://addons.nvda-project.org/files/get.php?key
 
 We needed this because ikiwiki doesnt seem to like long links.
-
-
