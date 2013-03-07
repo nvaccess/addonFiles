@@ -6,7 +6,7 @@ $addons = array(
     "ocr" => "http://files.nvaccess.org/nvda-addons/ocr_0.20120529.01.nvda-addon",
     "rm" => "resourceMonitor-2.2-dev.nvda-addon",
     "st" => "systrayList-1.4.nvda-addon",
-    "ubi" => "unicodeBrailleInput-1.0.nvda-addon"
+    "ubi" => "unicodeBrailleInput-1.01.nvda-addon"
 );
 
 If (isset($_GET['file'])) {
