@@ -1,6 +1,6 @@
 <?php
 $addons = array(
-    "cu" => "controlUsageAssistant-1.0Beta2.nvda-addon",
+    "cu" => "http://www.nvda-kr.org/controlUsageAssistant-1.0Beta2.nvda-addon",
 	"dx" => "dropbox-3.1.nvda-addon",
     "ew" => "extendedWinamp-1.1.nvda-addon",
     "it" => "instantTranslate-2.2beta1.nvda-addon",
