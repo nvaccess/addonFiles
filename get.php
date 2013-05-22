@@ -13,6 +13,20 @@ $addons = array(
 
 If (isset($_GET['file'])) {
     $file = $_GET['file'];
-    Header('Location:'.$addons[$file]);
+    $fullname = $addons[$file];
+
+    if ($fullname != "") {
+        Header('Location:'.$fullname);
+    } else {
+        print "<h1>File not found</h1>";
+        print "<p>The file you requested could not be found on this server.</p>";
+        print "<p>Please check that the link that brought you here is correct and try again.</p>";
+        print "<p>Thanks</p>";
+    }
+} else {
+    print "<h1>Error:</h1>";
+    print "<p>Please check that the link that brought you here is correct and try again.</p>";
+    print "<p>If you continue to see this message report this error to the nvda addon list.</p>";
+    print "<p>Thanks</p>";
 }
 ?>
