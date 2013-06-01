@@ -5,6 +5,7 @@ $addons = array(
     "ew" => "extendedWinamp-1.1.nvda-addon",
     "it" => "instantTranslate-2.2beta2.nvda-addon",
     "ocr" => "http://files.nvaccess.org/nvda-addons/ocr_0.20120529.01.nvda-addon",
+    "pm" => "placeMarkers-1.0-beta.nvda-addon",
     "rm" => "resourceMonitor-2.2.nvda-addon",
     "st" => "systrayList-1.4.nvda-addon",
     "ubi" => "unicodeBrailleInput-1.01.nvda-addon",
