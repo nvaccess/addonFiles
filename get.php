@@ -9,6 +9,7 @@ $addons = array(
     "rm" => "resourceMonitor-2.3.nvda-addon",
     "st" => "systrayList-1.4.nvda-addon",
     "ubi" => "unicodeBrailleInput-1.01.nvda-addon",
+	"VR" => "virtualRevision-1.2.1dev.nvda-addon",
     "wrd" => "word-0.2-dev.nvda-addon"
 );
 
