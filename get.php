@@ -4,11 +4,13 @@ $addons = array(
     "dx" => "dropbox-3.1.nvda-addon",
     "ew" => "extendedWinamp-1.1.nvda-addon",
     "it" => "instantTranslate-2.2beta2.nvda-addon",
+    "nb" => "NoBeepsSpeechMode-1.2.nvda-addon",
     "ocr" => "http://files.nvaccess.org/nvda-addons/ocr_0.20120529.01.nvda-addon",
-    "pm" => "placeMarkers-1.0-beta.nvda-addon",
+    "pm" => "placeMarkers-1.0.nvda-addon",
     "rm" => "resourceMonitor-2.3.nvda-addon",
-    "st" => "systrayList-1.4.nvda-addon",
+    "st" => "systrayList-2.0-dev.nvda-addon",
     "ubi" => "unicodeBrailleInput-1.01.nvda-addon",
+	"VR" => "virtualRevision-1.3-dev.nvda-addon",
     "wrd" => "word-0.2-dev.nvda-addon"
 );
 
