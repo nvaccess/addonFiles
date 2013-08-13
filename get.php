@@ -1,6 +1,6 @@
 <?php
 $addons = array(
-    "cua" => "controlUsageAssistant-1.0.nvda-addon",
+    "cua" => "controlUsageAssistant-2.0Beta1.nvda-addon",
     "dx" => "dropbox-3.1.nvda-addon",
     "ew" => "extendedWinamp-1.1.nvda-addon",
     "fh" => "focusHighlight-0.0.5.nvda-addon",
