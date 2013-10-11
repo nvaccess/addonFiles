@@ -10,6 +10,7 @@ $addons = array(
     "nb" => "NoBeepsSpeechMode-1.4.nvda-addon",
     "ocr" => "http://files.nvaccess.org/nvda-addons/ocr_0.20120529.01.nvda-addon",
     "pm" => "placeMarkers-1.0.nvda-addon",
+	"pm-dev" => "placeMarkers-2.0-dev.nvda-addon",
     "rm" => "resourceMonitor-2.4.nvda-addon",
     "st" => "systrayList-2.0-dev.nvda-addon",
     "ubi" => "unicodeBrailleInput-1.01.nvda-addon",
