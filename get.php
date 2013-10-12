@@ -5,6 +5,7 @@ $addons = array(
     "em" => "eMule-1.0-dev.nvda-addon",
     "ew" => "extendedWinamp-1.1.nvda-addon",
     "fh" => "focusHighlight-0.0.5.nvda-addon",
+    "gl" => "https://bitbucket.org/nvdaaddonteam/todo/raw/master/guideLines.txt",
     "gsr-dev" => "googleSpeechRecognition-1.0-dev.nvda-addon",
     "it" => "instantTranslate-2.2beta2.nvda-addon",
     "nb" => "NoBeepsSpeechMode-1.4.nvda-addon",
