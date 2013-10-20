@@ -13,6 +13,7 @@ $addons = array(
     "pm" => "placeMarkers-1.0.nvda-addon",
 	"pm-dev" => "placeMarkers-2.0-dev.nvda-addon",
     "rm" => "resourceMonitor-2.4.nvda-addon",
+    "rm-dev" => "resourceMonitor-3.0-dev.nvda-addon",
     "st" => "systrayList-2.0-dev.nvda-addon",
     "ubi" => "unicodeBrailleInput-1.01.nvda-addon",
 	"VR" => "virtualRevision-1.3-dev.nvda-addon",
