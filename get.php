@@ -2,7 +2,7 @@
 $addons = array(
     "cua" => "controlUsageAssistant-2.1.nvda-addon",
     "dx" => "dropbox-3.1.nvda-addon",
-    "em" => "eMule-1.0-dev.nvda-addon",
+    "em" => "eMule-1.0.nvda-addon",
 	"emo-dev" => "emoticons-1.0-dev.nvda-addon",
     "ew" => "extendedWinamp-1.1.nvda-addon",
     "fh-dev" => "focusHighlight-1.0-dev.nvda-addon",
