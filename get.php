@@ -9,6 +9,7 @@ $addons = array(
     "fh-dev" => "focusHighlight-1.0-dev.nvda-addon",
     "gl" => "https://bitbucket.org/nvdaaddonteam/todo/raw/master/guideLines.txt",
     "gsr-dev" => "googleSpeechRecognition-1.0-dev.nvda-addon",
+    "gwv" => "goldwave-1.0-dev.nvda-addon",
     "it" => "instantTranslate-2.2beta2.nvda-addon",
     "nb" => "NoBeepsSpeechMode-1.4.nvda-addon",
     "ocr" => "http://files.nvaccess.org/nvda-addons/ocr_0.20120529.01.nvda-addon",
