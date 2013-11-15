@@ -1,10 +1,11 @@
 <?php
 $addons = array(
+    "bc" => "bitChe-1.3.nvda-addon",
     "cua" => "controlUsageAssistant-2.1.nvda-addon",
     "dx" => "dropbox-3.1.nvda-addon",
     "dx-dev" => "dropbox-4.0-dev.nvda-addon",
     "em" => "eMule-1.0.nvda-addon",
-	"emo-dev" => "emoticons-1.0-dev.nvda-addon",
+    "emo-dev" => "emoticons-1.0-dev.nvda-addon",
     "ew" => "extendedWinamp-1.1.nvda-addon",
     "fh" => "focusHighlight-1.0.nvda-addon",
     "fh-dev" => "focusHighlight-1.0.nvda-addon",
@@ -16,12 +17,12 @@ $addons = array(
     "nb" => "NoBeepsSpeechMode-1.4.nvda-addon",
     "ocr" => "http://files.nvaccess.org/nvda-addons/ocr_0.20120529.01.nvda-addon",
     "pm" => "placeMarkers-2.0.nvda-addon",
-	"pm-dev" => "placeMarkers-3.0-dev.nvda-addon",
+    "pm-dev" => "placeMarkers-3.0-dev.nvda-addon",
     "rm" => "resourceMonitor-2.4.nvda-addon",
     "rm-dev" => "resourceMonitor-3.0-dev.nvda-addon",
     "st" => "systrayList-2.0-dev.nvda-addon",
     "ubi" => "unicodeBrailleInput-1.01.nvda-addon",
-	"VR" => "virtualRevision-1.3-dev.nvda-addon",
+    "VR" => "virtualRevision-1.3-dev.nvda-addon",
     "wrd" => "word-0.2-dev.nvda-addon"
 );
 
