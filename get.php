@@ -18,6 +18,7 @@ $addons = array(
     "ocr" => "http://files.nvaccess.org/nvda-addons/ocr_0.20120529.01.nvda-addon",
     "pm" => "placeMarkers-2.0.nvda-addon",
     "pm-dev" => "placeMarkers-3.0-dev.nvda-addon",
+    "rf" => "readFeeds-1.0-dev.nvda-addon",
     "rm" => "resourceMonitor-2.4.nvda-addon",
     "rm-dev" => "resourceMonitor-3.0-dev.nvda-addon",
     "st" => "systrayList-2.0-dev.nvda-addon",
