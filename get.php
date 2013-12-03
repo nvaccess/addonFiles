@@ -7,6 +7,7 @@ $addons = array(
     "em" => "eMule-1.0.nvda-addon",
 	"em-dev" => "eMule-1.1-dev.nvda-addon",
     "emo-dev" => "emoticons-1.0-dev.nvda-addon",
+    "ets" => "enhancedTouchGestures-0.1.nvda-addon",
     "ew" => "extendedWinamp-1.1.nvda-addon",
     "fh" => "focusHighlight-1.0.nvda-addon",
     "fh-dev" => "focusHighlight-1.0.nvda-addon",
