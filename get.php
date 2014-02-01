@@ -31,6 +31,7 @@ $addons = array(
     "st" => "systrayList-2.0-dev.nvda-addon",
     "spl" => "StationPlaylist-1.0.nvda-addon",
     "spl-dev" => "StationPlaylist-1.1-dev.nvda-addon",
+"tv-dev => "teamViewer-1.0-dev.nvda-addon",
     "ubi" => "unicodeBrailleInput-1.01.nvda-addon",
     "VR" => "virtualRevision-1.3-dev.nvda-addon",
     "wrd" => "word-0.2-dev.nvda-addon"
