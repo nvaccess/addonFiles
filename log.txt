@@ -1,0 +1,1039 @@
+commit a84cc04878c8072a79abc93727d90dd7e9dc0b00
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Feb 21 02:24:34 2014 -0800
+
+    SPL add-on 1.2-dev snapshot with a bug fix is ready for testing.
+
+commit 891ddd5d988375abf2d93bf77237a79546f70944
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Feb 14 17:23:25 2014 -0800
+
+    Station Playlist 1.1 is officially relased.
+
+commit aff9186e17b8bfbea17531f710fbc2ea8b7b813e
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Wed Feb 12 09:23:38 2014 +0100
+
+    Updated goldwave 1.2-dev.
+
+commit 66d8f485f2b99bbaa4681f728da7dd2308774ceb
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Feb 8 17:21:34 2014 +0100
+
+    update placeMarkers with the new languages.
+
+commit ab996801e84a483273a3636479f2d681df44a338
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Feb 8 17:12:37 2014 +0100
+
+    updated readFeeds 1.1-dev to include the new langs.
+
+commit 96c058707b6a2155685e28f887ea19d0e54fe1ec
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Feb 8 12:30:15 2014 +0100
+
+    Updated teamViewer 1.0-dev with new translations.
+
+commit 838f5ddd60b02f5e30af9618e2691a2befa88bb0
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Feb 8 11:57:05 2014 +0100
+
+    Updated eMule 1.2-dev.
+
+commit 4e6efce37269795765e34cd24361a055ef015e85
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Fri Feb 7 14:14:04 2014 +0100
+
+    new dev version of bitChe.
+
+commit 765f004a596af69cf25a6720870e12a1723e9879
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Wed Feb 5 20:26:45 2014 +0100
+
+    fix typo in reference for focus highlight 1.1-dev.
+
+commit d8f1e261fdfea152782133cb4bd3706f365ee046
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Wed Feb 5 02:27:00 2014 +0100
+
+    focus highlight 1.1 dev, incase anyone wants to test with xp.
+
+commit e3553a28fa60e96a09aefea3c0cd5ea433127311
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Feb 1 22:46:08 2014 +0100
+
+    Fixed link for teamViewer.
+
+commit fcea61dd52c082f446c860620c932742bac5dc2c
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Feb 1 22:27:13 2014 +0100
+
+    Added teamViewer-1.0-dev add-on.
+
+commit 18336e2c6a90c5e1f284e49f160ee677e75e9eef
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Mon Jan 27 20:46:32 2014 +0100
+
+    Trying to fix NoBeepsSpeechMode link.
+
+commit ddd390523e5661b460d15003fed0ee23f858982b
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Jan 25 00:32:51 2014 -0800
+
+    SPL 1.1-dev snapshot is ready.
+
+commit ed0b5c708ed46556d7f5e5aa026836586fbc8010
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Jan 14 15:25:04 2014 -0800
+
+    SPL 1.0 is ready.
+
+commit 8e0916cd389b3927a6bf8be9e3168752997ee788
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Mon Dec 30 23:45:17 2013 -0800
+
+    SPL 1.0-dev (beta 2) is ready, adding support for SPL 4.
+
+commit 78fc90ca63fde7707e32f07e5bf0954ad850e21b
+Merge: 79ade32 d5d83e2
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Mon Dec 30 23:29:35 2013 -0800
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit 79ade32d112c9c181d36a5d8fa24ce884f436edc
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Mon Dec 30 23:28:44 2013 -0800
+
+    GoldWave 1.1 is now available.
+    Changes include announcing messages in braille, fix for announcement of edit fields, translation updates and other features.
+
+commit d5d83e241550733e906962ab3c19e67ea56e00bf
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Mon Dec 30 10:32:32 2013 +0100
+
+    updated emoticons 1.1-dev to include an, nl.
+
+commit 7040f6ba7f7e7101f0402a4106984272bb5862ec
+Author: Patrick ZAJDA <patrick@zajda.fr>
+Date:   Sun Dec 29 14:29:39 2013 +0100
+
+    Dropbox: new 4.0 snapshot.
+
+commit 0de85c2be712110d4a79f28b898dc8a25bd6b2a7
+Merge: 4fa844a ecca63a
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Dec 24 10:55:45 2013 -0800
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit 4fa844a83974ff10b3497c99772ef00cddafce6e
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Dec 24 10:55:22 2013 -0800
+
+    Instant Translate 3.0-dev snapshot.
+
+commit ecca63a7ee767f9976579a0f995017d37b9b590e
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sun Dec 22 23:53:24 2013 +0100
+
+    bit che 1.4
+
+commit 47eccc2a06dd49c2e791b8471489f479df4ff355
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Dec 21 03:25:34 2013 -0800
+
+    Station Playlist 1.0-dev (beta) is now ready.
+
+commit 81446ab434b88132875a0a4022a879dc41c615cb
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Dec 17 09:35:51 2013 -0800
+
+    Next snapshot of GoldWave 1.1-dev.
+
+commit 8ae5f26e67b4b59f6afdbc083115c560b1897e0a
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Dec 14 21:34:55 2013 -0800
+
+    SPL add-on 0.3-dev milestone is ready.
+
+commit 5757e4d0630e14769ad56cb0f6045f71b75d15f2
+Merge: f89b461 118e9e1
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Dec 14 06:21:07 2013 -0800
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit f89b4615f83b64e5ab25f3eeb63290b762d1942f
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Dec 14 06:20:41 2013 -0800
+
+    GoldWave 1.1-dev - next snapshot is ready.
+
+commit 118e9e14dea87e13d527767cdd39f95d17b93404
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Dec 7 16:05:56 2013 +0100
+
+    Updated bitChe-1.4-dev: minor changes in readme.
+
+commit a988288c56e9db19b02018bd1f259ef3aef29d9b
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Dec 7 04:16:40 2013 -0800
+
+    SPL 0.2-dev is ready for testing.
+
+commit d3f32f6c338d4cc5f99096e410e15300729f97f5
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Fri Dec 6 11:14:40 2013 +0100
+
+    Updated bitChe-1.4-dev: minor changes in readme: just blank line added.
+
+commit 5a6904b446d5addf71205e77b5e8a128a993301e
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 15:13:07 2013 +0100
+
+    Added bitChe 1.4-dev.
+
+commit 8e1006629512a1fbf315d2be6422967a84a4d699
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 15:07:41 2013 +0100
+
+    updated get.php according to new versions of placeMarkers.
+
+commit de5b5c27628fe607f44ed39b30023811220f88b1
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 14:49:30 2013 +0100
+
+    added placeMarkers-3.1-dev
+
+commit dbc24b35bb8f9d7b684cc8039908a241fdc9e5ea
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 14:46:45 2013 +0100
+
+    placeMarkers-3.0 stable version added.
+
+commit 79ede7d337c0942d81601db1dc054f71089787d3
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 14:45:56 2013 +0100
+
+    Added placeMarkers-3.0.
+
+commit 14330996764126c2bd64bb35628080acc4056230
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 14:40:17 2013 +0100
+
+    eMule 1.1 adn 1.2-dev added.
+
+commit 0121f78ccf9872b5b54b701607d8d447b3af71a9
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 14:39:02 2013 +0100
+
+    eMule 1.1 and 1.2-dev added. Removed previous dev version.
+
+commit 55c51d660af3fe573051fed1be20d2a948d96fd4
+Merge: 714a26c 8894893
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Thu Dec 5 04:54:54 2013 -0800
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit 714a26c3802b8802f050f5ca2b8640304cd5518e
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Thu Dec 5 04:54:28 2013 -0800
+
+    Next milestone of SPL add-on.
+
+commit 8894893a2540c116f070bf1f666f107aacc14d28
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 11:06:36 2013 +0100
+
+    Updated get.php.
+
+commit df29b390b82cb05483858ac299c74ef2cfb58fe8
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 11:05:07 2013 +0100
+
+    Added readFeeds1.0 and 1.1-dev. Deleted previous dev version.
+
+commit 1bc6c6857a33b9d77eecdf2cf45562f67f959ca0
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 10:45:29 2013 +0100
+
+    Fixing issues with GSR add-on.
+
+commit 1cb9ff8f25cd803fef612bfcac0ff7327170d16e
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 10:01:01 2013 +0100
+
+    Added GSR 1.0 and 1.1-dev. Deleted previous develpoment versions.
+
+commit c3a8a69192ebf1eafcefe896b12c640d35993411
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Dec 5 09:27:34 2013 +0100
+
+    emoticons 1.0 and 1.1: released stable version and update dev.
+
+commit 330aca2aa59051ddbcc1f0e96842d7958ed3be7e
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Wed Dec 4 15:48:30 2013 -0800
+
+    Station Playlist 0.1: the add-on is ready.
+
+commit bae3cc01f11c6ba14b344940671cfeca56294e2d
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Wed Dec 4 00:42:57 2013 -0800
+
+    New snapshot of GoldWave 1.1-dev is now available.
+
+commit ced2d90dd74fcc1244f7ded06f0e424d047e0fec
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Dec 3 16:57:30 2013 -0800
+
+    Resource Monitor 3.0 released.
+
+commit 2817066999bb41a048a0b55370564b9380b1e7bd
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Dec 3 02:28:25 2013 -0800
+
+    Enhanced Touch Gestures 0.1R2 - will show up as 0.1.
+
+commit 7fc16fddd46893e21607928533d5ce9831d137ca
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Mon Dec 2 21:24:32 2013 -0800
+
+    Enhanced Touch Gestures (ets) 0.1 dev is here for testing.
+
+commit e06a1d25e0ffd40a7f13090f88230d75c5e971ac
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Thu Nov 28 17:49:39 2013 +0100
+
+    newer instant translate 3.0-dev, with updated languages.
+
+commit a4c1f2cc6eb47aa536d98e34b6211f06b4d185a5
+Merge: f7ea210 9bd901d
+Author: beqa <beqaprogger@gmail.com>
+Date:   Thu Nov 28 18:18:36 2013 +0400
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonfiles
+
+commit f7ea210ad4dfec1fed44b20160a9e4482d2839a0
+Author: beqa <beqaprogger@gmail.com>
+Date:   Thu Nov 28 18:17:52 2013 +0400
+
+    first public beta of instantTranslate3.0
+
+commit 9bd901d14e2a0c2c2a9f65478902357a21514d8d
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Nov 26 06:36:00 2013 -0800
+
+    Resource Monitor 3.0-dev - all major features are done.
+
+commit b1905893d5a4968a2da29d6d2ba89e212b3fb9e5
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Nov 22 04:12:00 2013 -0800
+
+    Resource Monitor: another mileston...
+
+commit d647647e7e5d0d2f0068c9217b0b58e44bb42aba
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Nov 22 03:17:44 2013 -0800
+
+    Uploading again - fixed indentation bug.
+
+commit 96b9f6312a81bcded17141527e17f43901f407ab
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Nov 22 02:39:17 2013 -0800
+
+    GoldWave 1.1 milestone is ready.
+
+commit f0833648c426cf232e112ea5c589fd2685659e3d
+Merge: 17d6567 96d3be5
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Nov 22 02:35:20 2013 -0800
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit 17d656786234ffe95583439bd9c05bda1ae5e8d7
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Nov 22 02:34:52 2013 -0800
+
+    Resource Monitor: next 3.0-dev milestone is ready.
+
+commit 96d3be53df57e4c9eec5efdec7dd959b1eed0801
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Wed Nov 20 20:17:06 2013 +0100
+
+    Fixed reported bug in readFeeds: links are managed properly now.
+
+commit 14d59c9df71598fdd10b6103c01de918b14d14e7
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Wed Nov 20 18:13:06 2013 +0100
+
+    Fixed reported bug in readFeeds add-on. Now can be installed properly.
+
+commit 9dc0c02be04e6dd801451fa2488f1c531c7eed6b
+Merge: 94582eb a6f0c14
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Wed Nov 20 06:33:06 2013 -0800
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit 94582eb232668dc3f3ef3df9d98bb8ab23262725
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Wed Nov 20 06:32:38 2013 -0800
+
+    Fix the file key for ReadFeeds - rf = rf-dev.
+
+commit a6f0c147911ba836240cd1b5d82b8803d7bf4a45
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Tue Nov 19 19:23:14 2013 +0100
+
+    added eMule-1.1-dev.
+
+commit e3ff1d15eb115a784cd49ab970ba27c88aa7ec12
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Nov 16 19:46:08 2013 +0100
+
+    updated placeMarkers with last translations.
+
+commit 6982e8db96ed4656c3058b510678b3574b5f1a7a
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Nov 16 19:31:31 2013 +0100
+
+    updated emoticons-1.0-dev trying to fix reported bug.
+
+commit 0884fb827e04ed6ef1ba47aae264813b966bbba0
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Nov 16 14:43:17 2013 +0100
+
+    added readFeeds 1.0-dev.
+
+commit 75976c0e0cb7f16b8999ac31b4e818946aad738c
+Merge: f00a1cf 7e6a703
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Nov 15 13:00:06 2013 -0800
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit f00a1cf1d3abf12691483dc858f498524c13e680
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Nov 15 12:59:43 2013 -0800
+
+    GoldWave: 1.0 package.
+
+commit 2ccfb4bc8ff44cb0897acb814e7211c0013d7cc7
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Nov 15 12:59:22 2013 -0800
+
+    GoldWave: 1.0 released.
+
+commit 7e6a70387784fd8828abeedddc66316ae857148a
+Author: Alberto Buffolino <a.buffolino@gmail.com>
+Date:   Fri Nov 15 21:37:57 2013 +0100
+
+    Published Bit Che 1.3
+
+commit 77bab8cd9c56137d3d05a818b08cfd436676df5c
+Author: Alberto Buffolino <a.buffolino@gmail.com>
+Date:   Wed Nov 13 22:05:13 2013 +0100
+
+    Added Instant Translate 2.3-dev for testing
+
+commit fa4d1857068669b9b64f086489bfff83ffb1dd05
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Tue Nov 12 06:36:38 2013 +0100
+
+    make stable version of focus highlight available.
+
+commit d9514e814a239c293ca80dff48647901cbac5d29
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Nov 8 19:07:03 2013 -0800
+
+    GoldWave app module 1.0 beta 1 is now available.
+
+commit 03a5001d0f29cac465c184c6a6c23ad3c0762f43
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Nov 8 10:52:16 2013 -0800
+
+    Next alpha build of GoldWave add-on.
+
+commit 47f8de44f4d598e3074935a9893a336fe38a4b08
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Nov 5 11:30:52 2013 -0800
+
+    Goldwave: zoom level milestone reached. Will take some time to get feedback from users.
+
+commit 5ca4cf61b347d637cd8bdb3ef7aed9f152c81383
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Mon Nov 4 00:01:48 2013 -0800
+
+    Goldwave 1.0-dev - public milestone build is ready.
+
+commit a3b6d93a3352b6effb12ff1f46d0423d5d797d7d
+Merge: 783a8d4 4c130d6
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sun Nov 3 09:04:29 2013 -0800
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit 783a8d45c3de0ec714fc040af9d5820414d6a40b
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sun Nov 3 09:04:08 2013 -0800
+
+    Resource Monitor: new build with translations updates.
+
+commit 4c130d62d25a4da8097165b68c4e3098acc4d3be
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Oct 31 11:46:52 2013 +0100
+
+    updated placeMarkers 3.0-dev with new docHandler.
+
+commit 9b78c6381c7bf94bb429896ebb0411acef9e1775
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Thu Oct 31 11:39:53 2013 +0100
+
+    updated dropbox, 4.0-dev.
+
+commit 57df4d97147442cea63d85bd4d45e12f6b4d3a9e
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Wed Oct 30 06:34:21 2013 +0100
+
+    updated Emoticons to fix and bugin docHandler with folders names containing non-latin characters.
+
+commit a000ddfb03731f862461735b5888b804bf2eb2cd
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Mon Oct 28 19:12:46 2013 +0100
+
+    updated placeMarkers: added released 2.0 stable version and 3.0-dev.
+
+commit 20e07e1ed6065efbe6a6edd7cca12df69496bed5
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sun Oct 27 22:32:20 2013 +0100
+
+    update focushighlight.
+
+commit e85a1c0a04d7146b74b623d398d0d9dedd1f4766
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sun Oct 27 21:30:27 2013 +0100
+
+    Updated URL for eMule-1.0 stable add-on.
+
+commit 09f61520dd0041c6ec09825b2a013c66ccdc5c08
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sun Oct 27 20:45:18 2013 +0100
+
+    Added eMule 1.0.
+
+commit 268f389218f89178a971765572d8fd146459023c
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sun Oct 27 17:46:25 2013 +0100
+
+    Emoticons: Fixed bug for translations.
+
+commit d3daa23c830b6719bba83a23d7827090be716a99
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sun Oct 27 14:30:05 2013 +0100
+
+    Updated emoticon 1.0-dev add-on.
+
+commit e9cd6ac34dffe5d47b21f323e114d62f23c216ae
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Tue Oct 22 01:13:59 2013 +0200
+
+    focus highlight 1.0-dev.
+
+commit 85315feab05b70bff281589484759ada0bc42607
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Mon Oct 21 10:21:28 2013 +0200
+
+    Addon files: uploaded emoticons add-on.
+
+commit eac7038506a84dc685a2bae46e69889293e24e90
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sun Oct 20 01:46:30 2013 -0700
+
+    Resource Monitor: version 3.0-dev now available.
+
+commit 880b522a6b5b6bf4287ca51e8aa54fe143fa03bb
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Oct 12 16:51:31 2013 +0200
+
+    placeMarkers 2.0-dev: linguistic changes.
+
+commit 8d8184f6b95c694515f0e08640df35c402b6f92b
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Oct 12 15:42:24 2013 +0200
+
+    Add redirecting link to our guidelines.txt.
+    
+    Needed due to po4a in ikiwiki breaking links longer than 72 chars.
+
+commit d4f2e18915e9813b94c4cfce20ebf02c7ff9ca02
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Oct 12 15:41:56 2013 +0200
+
+    placeMarkers 2.0-dev: Added category for input gestures.
+
+commit dcc556812a4b69b047543c37c7cdbb5a95b4b887
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Fri Oct 11 08:10:23 2013 +0200
+
+    Added placeMarkers 2.0-dev.
+
+commit 6d302deabfd418a7933ef8feccd2112d53526229
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Oct 8 00:29:16 2013 -0700
+
+    CUA 2.1 file.
+
+commit 41a920124c807191e2af19ea31bbf9ac9ace8b7a
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Oct 8 00:28:52 2013 -0700
+
+    CUA 2.1 is released, featuring new and updated translations.
+
+commit 9f489f4b26e2aed9f16dcb1df5d84d95bf8e9a0e
+Merge: 28047ee 320045e
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Aug 27 06:26:19 2013 -0700
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit 28047eef94d181dd08c8ed45ab84ae4b72646655
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Aug 27 06:25:48 2013 -0700
+
+    CUA 2.0 file added.
+
+commit d5adcd96cb6b10f10cc5925db7128c794c935cd7
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Aug 27 06:25:27 2013 -0700
+
+    CUA 2.0 released.
+
+commit 320045eaf187685c3d86bd2949ca51925530f6a5
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sun Aug 18 10:42:50 2013 +0200
+
+    make no beeps speech mode 1.4 available.
+
+commit 761541eca78448ac1d8c9edd3bc8dc90e6b6a418
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Aug 17 23:35:44 2013 +0200
+
+    added gsr-dev.
+
+commit e52a82be28883827e67cb779fcf2cfb64e0be554
+Merge: 917e445 0a5f432
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Aug 13 11:22:05 2013 -0700
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit 917e44537e6b4112794f8af4c40c8157dc2e5ae1
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Aug 13 11:21:30 2013 -0700
+
+    CUA - let the beta cycle begin...
+
+commit f1c96d7588bb53b48a811bcd114579bd47c85ebe
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Aug 13 11:21:05 2013 -0700
+
+    Control Usage Assistant 2.0 Beta cycle begun.
+
+commit 0a5f4328e169e327b3c325f398093f84aa8f657d
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sun Aug 4 14:00:03 2013 +0200
+
+    make eMule addon available for download.
+
+commit 2d5c00e7ef9415851373a1a8e0e48829dad5566f
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sun Aug 4 10:00:17 2013 +0200
+
+    updated focus highlight to correct documentation.
+
+commit 16bb7c4e6c7a81e594e028ff3e842895364c9bc4
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sun Aug 4 08:56:00 2013 +0200
+
+    make focus highlight available for download.
+
+commit c0a6172e81d960ab37d45cf3f6743b11577d248b
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Jul 19 05:36:12 2013 -0700
+
+    Resource Monitor 2.4 released.
+
+commit 99ab2cddbd3ba9fb92a54bc998f63b5cbe9bcfd0
+Merge: ac7054c 92b0dd3
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Jul 19 05:25:53 2013 -0700
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addonFiles
+
+commit ac7054c032a7c6c187970d78a6204913d5c4fc08
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri Jul 19 05:25:02 2013 -0700
+
+    ResourceMonitor 2.3 - final version released.
+
+commit 92b0dd3ae85096a489abcf3e28b69b09514c44ca
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Thu Jul 18 13:03:27 2013 +0200
+
+    Added .htaccess, to ensure addon files are downloaded correctly.
+    fixes: http://nvda-project.org/ticket/3367
+
+commit faf1fa4317267b6927080871520c8ef5a34108c9
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Tue Jul 16 09:15:02 2013 +0200
+
+    make NoBeepsSpeechMode available for download.
+
+commit 03e41f0946a44d290f6b1c011bd08a819480c2f5
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sun Jul 7 14:32:01 2013 +0200
+
+    virtualRevision 1.3-dev.
+
+commit 035ec6fe9d2680095b0872016ef819992d610cf9
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Jul 6 00:21:01 2013 +0200
+
+    PlaceMarkers: updated version to 1.0 in manifest and doc files.
+
+commit e9009b1987b7b657aebdd121e6025ba0c814484d
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Fri Jul 5 23:20:43 2013 +0200
+
+    make placeMarkers 1.0 release available for download.
+
+commit de43f128229482cf362913fda46f67bd6f046d04
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Thu Jun 27 12:42:59 2013 +0200
+
+    Fixed bug in Specific Search with Tamil.
+
+commit 38948b658ca7d34bb831c8f2cb92e1db49372bc7
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Wed Jun 26 19:53:00 2013 +0200
+
+    Fixed bug in placeMarkers: now it's possible to save bookmarks in IE 10.
+
+commit ba5bcff3580decc787070697bdf9526f3f8a229a
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Wed Jun 26 13:52:36 2013 +0200
+
+    Make systrayList 2.0-dev  available for download from the website.
+
+commit bc173eb4a51bfdb9c3892454ed174b5d4e52030e
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Jun 22 10:42:32 2013 +0200
+
+    Make virtual revision available to download from website.
+
+commit ae718dc588400b19af1989ef216bdd44b6ac8209
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Mon Jun 17 20:07:29 2013 +0200
+
+    Update placeMarkers addon to reflect latest changes.
+
+commit 7ef76542eee7e0ccbb062aa5c88e8bc8a017eb88
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Fri Jun 14 15:42:52 2013 +0200
+
+    placeMarkers: updated translation into Italian.
+
+commit 798ce66d0f99cb62d56da9fc8dd393de08da772d
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Mon Jun 10 04:22:21 2013 -0700
+
+    Updated Resource Monitor to version 2.3.
+
+commit cf543a3ea3ce4f3f81bc95617e35ac0f7fd51d29
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Jun 8 20:02:15 2013 +0200
+
+    Added pt_pt translation, thanks to Ângelo Abrantes and Rémy Ruiz.
+
+commit 2acb57a8148e6749a264c4fa8aea885d15bad915
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Sat Jun 8 12:40:03 2013 +0200
+
+    Tooltip for Help menu just as addon name, according to current pot file.
+
+commit 7d84334ac8c5eacc970ffc8536f8652dc8da0d7f
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Fri Jun 7 14:00:43 2013 +0200
+
+    Updated translated messages: Spanish and Galician. Corrected readme.
+
+commit 87b683ff1c390bd5622819e0d265ae9cbdc24cce
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Wed Jun 5 23:16:53 2013 +0200
+
+    Fixed messages in English, thanks to Derec Riemer.
+
+commit cf36db8b42d40b04069aa1bed07457ee4c619b9c
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Tue Jun 4 23:24:06 2013 +0200
+
+    Fixed version in manifest.ini.
+
+commit 3187c9b5d78b81671ab46ee6adc266c3442a16be
+Author: Noelia Ruiz Martínez <nrm1977@gmail.com>
+Date:   Tue Jun 4 23:17:42 2013 +0200
+
+    Fixedspelling error: inserted space between previous and bookmark.
+
+commit 11883eec1e142e3c7aaafb8d00f6c3aa20de0703
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Jun 1 13:03:54 2013 -0700
+
+    PM 2.0-beta - file is now availible.
+
+commit 9af90f49fcf5672552719ce10e90f42365ed183a
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Jun 1 13:02:34 2013 -0700
+
+    Place Markers - entry created.
+
+commit b3b76bf92b026d8b146aaf46d411687290d3715e
+Author: beqa <beqaprogger@gmail.com>
+Date:   Sat May 25 22:12:56 2013 +0400
+
+    Added instantTranslate2.2 beta2
+
+commit c16b969c5c63c8e03b82b0809d6cd90a3f0a2b1d
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Wed May 22 11:34:49 2013 +0200
+
+    get.php: Add error messages.
+    
+    When we are unable to provide a file for download, attempt to provide a
+    reason which will give us an idea of where to start debugging.
+
+commit 8a3b1e1bacdabf9d2a13b579b66e6521f1a3d02c
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Wed May 22 10:53:32 2013 +0200
+
+    fix indentation.
+
+commit 1cd1bac8b7deb93740c643836749165f1b2f84e4
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Wed May 22 10:31:39 2013 +0200
+
+    fix url for control usage assistant.
+
+commit eb1dd18bf1b5234464c20a5576eb3efc0729ee70
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue May 21 18:10:47 2013 -0700
+
+    CUA 1.0 file.
+
+commit 79585e45f182efa4f0fdc83888747c51ecfcff6c
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue May 21 18:10:28 2013 -0700
+
+    CUA 1.0 is ready.
+
+commit 8f4ca5c7070bfedc46b441e2397ac6e172badb9c
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue May 21 17:44:54 2013 -0700
+
+    URL format for CUA changed.
+
+commit 6ef8e8ea97bbaa7338631693e5c3d0faf998468b
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat May 11 23:17:24 2013 -0700
+
+    CU - Beta 2 file added. Let's see if the system can pull it this time...
+
+commit 339c463f1bc26be280020638c8d5cc123dea7fc2
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri May 10 02:47:15 2013 -0700
+
+    Corrected CUA package.
+
+commit fe120d4065f64a4d6f8c863cc464b9fc0c854525
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri May 10 01:26:02 2013 -0700
+
+    CUA - possible indentation issue.
+
+commit 7fb6bd89aeffaef524d7cb0ea97290257ceae933
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Fri May 10 00:52:04 2013 -0700
+
+    Control Usage Assistant file added.
+
+commit fb0e0f224cad44e291cb86ae2090b859e451f357
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sun Apr 7 02:05:46 2013 -0700
+
+    Update ResourceMonitor to version 2.2.
+
+commit 8f230a1878fad5eb676e13efd778aa841ea5c3a8
+Merge: e76dc9f 80ba8dc
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Mar 16 23:20:00 2013 -0700
+
+    Merge branch 'master' of https://bitbucket.org/nvdaaddonteam/addon-files
+
+commit e76dc9f5aad372f10a62d7885f07f625f6d7602e
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Mar 16 23:19:26 2013 -0700
+
+    ResourceMonitor 2.2 Beta 1 package.
+
+commit 80ffc105785c917f192bcce27173a1a3e02447d5
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Sat Mar 16 23:18:27 2013 -0700
+
+    Resource Monitor 2.2Beta1 is now live for testing.
+
+commit 80ba8dccdf821f60dd7b3ad1ccd400c7d49f35b3
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Wed Mar 13 08:24:05 2013 +0100
+
+    update instantTranslate sl locale.
+
+commit 185d8eca7b024728cb5710b896d39476ba56e062
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Mar 9 13:11:55 2013 +0100
+
+    added word addon.
+
+commit 0257f861c369195fe317bbb372045e1ace04165e
+Author: Patrick ZAJDA <patrick@zajda.fr>
+Date:   Thu Mar 7 13:16:31 2013 +0100
+
+    Update unicodeBrailleInput to last version.
+
+commit bec7cc434ea5dc0d91f454344a2bb44eda55c1e5
+Author: Patrick ZAJDA <patrick@zajda.fr>
+Date:   Thu Mar 7 12:52:53 2013 +0100
+
+    Update unicodeBrailleInput to 1.01 which changes the way the message is delayed after clicking OK.
+
+commit 6739c5d67bc782b9d61ad47ee47a0f75cde673c6
+Author: beqa <beqaprogger@gmail.com>
+Date:   Tue Mar 5 20:43:35 2013 +0400
+
+    made final decision and changed version to 2.2-dev
+
+commit 8566b76f54b30f2b2236de55eac6636b4fef0dc9
+Author: beqa <beqaprogger@gmail.com>
+Date:   Tue Mar 5 20:15:14 2013 +0400
+
+    REVERTED VERSION NUMBER.
+
+commit 00162c229966d1e3f9fc907b94973fec750a73a9
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Mar 5 04:05:32 2013 -0800
+
+    Resource-monitor 2.11 release - hopefully the official version.
+
+commit 33f5cdbad6189f872fabe3c36b8b77afd8dde7ae
+Author: Joseph Lee <joseph.lee22590@gmail.com>
+Date:   Tue Mar 5 04:00:57 2013 -0800
+
+    Resource-monitor 2.11 release.
+
+commit 22ab13845f0d497afbfdabf58c773a384b25d503
+Author: beqa <beqaprogger@gmail.com>
+Date:   Sun Mar 3 18:27:05 2013 +0400
+
+    ADDED RESOURCEMONITOR ADDON.
+
+commit c47f9c2d191c9bee06c76bb3d9e6b38b97f670ff
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sun Mar 3 12:49:01 2013 +0100
+
+    added unicodeBrailleInput addon.
+
+commit b2df50989d8a211d5cd4667a135997783d700dbd
+Author: beqa <beqaprogger@gmail.com>
+Date:   Sun Mar 3 09:14:54 2013 +0400
+
+    UPDATED LOCALES: "NE,RU"
+
+commit 9c6050364824a72c4ab6c2d9368f24aaecd9337f
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Fri Feb 22 15:02:50 2013 +0100
+
+    updated instantTranslate to include latest japanese locale corrections.
+
+commit 1d5ceb3fbd4736b4555a416a2653c3f427b392e8
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Thu Feb 21 13:05:25 2013 +0100
+
+    updated systray and instantTranslate, to icnlude latest sl locale changes.
+
+commit f1ae71c3ae2a27765130ac371533c0b75597ce17
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Wed Feb 20 20:58:32 2013 +0100
+
+    added dropbox to match dropbox git commit: b1fbca3b
+
+commit 0a54655dc440107e082cdb8058ca59d11d883695
+Author: beqa <beqaprogger@gmail.com>
+Date:   Tue Feb 19 06:10:14 2013 +0400
+
+    FIXED THE ISSUE WHEN INSTANTTRANSLATE INTERFACE MESSAGES WERE TRANSLATED BUT WERE STILL SHOWN IN ENGLISH.
+
+commit cc5ded1e093bb218a1fe0ffae48ec592c17e1de6
+Author: beqa <beqaprogger@gmail.com>
+Date:   Sun Feb 17 22:58:18 2013 +0400
+
+    UPDATED ADDONS WITH LATEST TRANSLATIONS.
+
+commit 61dce28dac398a70b2398f0fbb64c9cbe0d6be9c
+Author: beqa <beqaprogger@gmail.com>
+Date:   Sun Feb 10 21:19:59 2013 +0400
+
+    FIXED IN MOST OF LANGS DROPBOX.PY NOT TO WORK IN PREFERENCES DIALOG.
+
+commit 9ffe95f708513edeba4536bd1a303928fd932eb0
+Author: beqa <beqaprogger@gmail.com>
+Date:   Sun Feb 10 16:20:54 2013 +0400
+
+    FIXED TAMIL DROPBOX-ADDON INSTALLATION
+
+commit 06eac57ff593b8e71339422f923be11487f8ff40
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Feb 9 06:56:49 2013 +0100
+
+    readme note that server pulls every 10 mins.
+
+commit 0bcf6b1a64051aba1425307834a36b69c529b8bf
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Feb 9 06:53:36 2013 +0100
+
+    added readme.
+
+commit dd6f0c64caae131090662ce4ccf3acdf25e49cc8
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Feb 9 06:28:09 2013 +0100
+
+    fix typo.
+
+commit 257e9281efc0b71da893e2ffaddab435c742fed9
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Feb 9 06:21:47 2013 +0100
+
+    get.php: add ocr addon.
+
+commit 931aad854991feef15216302bb43e41091f46f90
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Feb 9 05:54:58 2013 +0100
+
+    removing dropbox 3.0 since now we have 3.1 stable.
+
+commit a65d310e358a61d796662d47d95715ecd05e3106
+Author: Mesar Hameed <mhameed@src.gnome.org>
+Date:   Sat Feb 9 05:37:28 2013 +0100
+
+    add existing addons and the get.php script.
