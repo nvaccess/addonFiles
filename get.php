@@ -28,6 +28,7 @@ $addons = array(
     "rf-dev" => "readFeeds-1.1-dev.nvda-addon",
     "rm" => "resourceMonitor-3.1.nvda-addon",
     "rm-dev" => "resourceMonitor-3.1.nvda-addon",
+    "rs-dev" => "rapidSettings-2.0dev.nvda-addon",
     "st" => "systrayList-2.0-dev.nvda-addon",
     "spl" => "StationPlaylist-1.2.nvda-addon",
     "spl-dev" => "StationPlaylist-2.0-dev.nvda-addon",
