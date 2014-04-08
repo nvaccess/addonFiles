@@ -41,6 +41,8 @@ PathToMrRepo=/home/noreply/vr/nvda/
 #x 12 for addons starting with l
 #x 13 for addons starting with m
 #x 14 for addons starting with n
+00 16 * * fri cd ${PathToMrRepo}/addons/noBeepsSpeechMode && mr addon2svn && mr svn2addon
+
 #x 15 for addons starting with o
 #x 16 for addons starting with p
 00 16 * * fri cd ${PathToMrRepo}/addons/placeMarkers && mr addon2svn && mr svn2addon
