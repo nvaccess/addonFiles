@@ -1,0 +1,60 @@
+# Edit this file to introduce tasks to be run by cron.
+# 
+# Each task to run has to be defined through a single line
+# indicating with different fields when the task will be run
+# and what command to run for the task
+# 
+# To define the time you can provide concrete values for
+# minute (m), hour (h), day of month (dom), month (mon),
+# and day of week (dow) or use '*' in these fields (for 'any').# 
+# Notice that tasks will be started based on the cron's system
+# daemon's notion of time and timezones.
+# 
+# Output of the crontab jobs (including errors) is sent through
+# email to the user the crontab file belongs to (unless redirected).
+# 
+# For more information see the manual pages of crontab(5) and cron(8)
+# 
+# m h  dom mon dow   command
+PathToMrRepo=/home/noreply/vr/nvda/
+00  0 * * * cd $PathToMrRepo; mr up
+
+#x  1 for addons starting with a
+
+#x  2 for addons starting with b
+00  2 * * fri cd ${PathToMrRepo}/addons/bitChe && mr addon2svn && mr svn2addon
+
+#x  3 for addons starting with c
+#x  4 for addons starting with d
+#x  5 for addons starting with e
+00  5 * * fri cd ${PathToMrRepo}/addons/eMule && mr addon2svn && mr svn2addon
+
+#x  6 for addons starting with f
+00  6 * * fri cd ${PathToMrRepo}/addons/focusHighlight && mr addon2svn && mr svn2addon
+
+#x  7 for addons starting with g
+#x  8 for addons starting with h
+#x  9 for addons starting with i
+#x 10 for addons starting with j
+#x 11 for addons starting with k
+
+#x 12 for addons starting with l
+#x 13 for addons starting with m
+#x 14 for addons starting with n
+#x 15 for addons starting with o
+#x 16 for addons starting with p
+00 16 * * fri cd ${PathToMrRepo}/addons/placeMarkers && mr addon2svn && mr svn2addon
+
+# x 17 for addons starting with q
+# x 18 for addons starting with r
+00 18 * * fri cd ${PathToMrRepo}/addons/readFeeds && mr addon2svn && mr svn2addon
+
+# x 19 for addons starting with s
+# x 20 for addons starting with t
+00  20 * * fri cd ${PathToMrRepo}/addons/teamViewer && mr addon2svn && mr svn2addon
+
+# x 21 for addons starting with u
+00  21 * * fri cd ${PathToMrRepo}/addons/unicodeBrailleInput && mr addon2svn && mr svn2addon
+
+# x 22 for addons starting with w
+# x 23 for addons starting with x y or z
