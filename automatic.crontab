@@ -53,6 +53,7 @@ PathToMrRepo=/home/noreply/vr/nvda/
 # x 17 for addons starting with q
 # x 18 for addons starting with r
 00 18 * * fri cd ${PathToMrRepo}/addons/readFeeds && mr addon2svn && mr svn2addon
+05 18 * * fri cd ${PathToMrRepo}/addons/resourceMonitor && mr addon2svn && mr svn2addon
 
 # x 19 for addons starting with s
 # x 20 for addons starting with t
