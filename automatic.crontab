@@ -27,8 +27,8 @@ PathToMrRepo=/home/noreply/vr/nvda/
 #x  3 for addons starting with c
 #x  4 for addons starting with d
 #x  5 for addons starting with e
-00  5 * * fri cd ${PathToMrRepo}/addons/eMule && mr addon2svn && mr svn2addon
-05  5 * * fri cd ${PathToMrRepo}/addons/emoticons && mr addon2svn && mr svn2addon
+00  5 * * fri cd ${PathToMrRepo}/addons/emoticons && mr addon2svn && mr svn2addon
+05  5 * * fri cd ${PathToMrRepo}/addons/eMule && mr addon2svn && mr svn2addon
 
 #x  6 for addons starting with f
 00  6 * * fri cd ${PathToMrRepo}/addons/focusHighlight && mr addon2svn && mr svn2addon
