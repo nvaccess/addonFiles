@@ -18,6 +18,7 @@
 # m h  dom mon dow   command
 PathToMrRepo=/home/noreply/vr/nvda/
 00  0 * * * cd $PathToMrRepo; mr up
+05  0 * * fri cd ${PathToMrRepo}/srt/ && mr mergePot
 
 #x  1 for addons starting with a
 
