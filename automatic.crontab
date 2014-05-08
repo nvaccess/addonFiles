@@ -58,6 +58,7 @@ PathToMrRepo=/home/noreply/vr/nvda/
 05 18 * * fri cd ${PathToMrRepo}/addons/resourceMonitor && mr addon2svn && mr svn2addon
 
 # x 19 for addons starting with s
+00 19 * * fri cd ${PathToMrRepo}/addons/StationPlaylist && mr addon2svn && mr svn2addon
 # x 20 for addons starting with t
 00  20 * * fri cd ${PathToMrRepo}/addons/teamViewer && mr addon2svn && mr svn2addon
 
