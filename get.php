@@ -22,6 +22,7 @@ $addons = array(
 	"it-dev" => "instantTranslate-3.0-dev.nvda-addon",
 	"nb" => "NoBeepsSpeechMode-1.5.nvda-addon",
 	"ocr" => "http://files.nvaccess.org/nvda-addons/ocr_0.20120529.01.nvda-addon",
+	"pckbbrl" => "http://files.nvaccess.org/nvda-addons/pcKbBrl-2014.1.nvda-addon",
 	"pm" => "placeMarkers-3.0.nvda-addon",
 	"pm-dev" => "placeMarkers-3.1-dev.nvda-addon",
 	"qb-dev" => "http://files.nvaccess.org/nvda-addons/quickBooks2014-2014.4.7.nvda-addon",
