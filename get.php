@@ -1,7 +1,7 @@
 <?php
 $addons = array(
-	"bc" => "bitChe-1.5.nvda-addon",
-	"bc-dev" => "bitChe-1.5-dev.nvda-addon",
+	"bc" => "bitChe-2.0.nvda-addon",
+	"bc-dev" => "bitChe-2.0.nvda-addon",
 	"cua" => "controlUsageAssistant-2.1.nvda-addon",
 	"dx" => "dropbox-3.1.nvda-addon",
 	"dx-dev" => "dropbox-4.0-dev.nvda-addon",
