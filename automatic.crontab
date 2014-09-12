@@ -16,10 +16,17 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
-PathToMrRepo=/home/noreply/vr/nvda/
+PathToMrRepo=/home/nvdal10n/mr/
 00  0 * * fri cd $PathToMrRepo; mr up
 05  0 * * fri cd ${PathToMrRepo}/srt/ && mr mergePot
 10  0 * * fri cd ${PathToMrRepo}/srt/ && mr findRevs
+
+srt_conv=/home/nvdal10n/mr/srt_conv/scripts/
+poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
+2,12,22,32,42,52 * * * * cd $srt_conv; ./poStatus.sh >${poStatusHtml}
+
+# Keep live crontab in sync with version control.
+1 0 * * * cd ${PathToMrRepo}/addons/addonFiles && git pull && crontab automatic.crontab
 
 #x  1 for addons starting with a
 
