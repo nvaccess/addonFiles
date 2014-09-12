@@ -26,7 +26,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 2,12,22,32,42,52 * * * * cd $srt_conv; ./poStatus.sh >${poStatusHtml}
 
 # Keep live crontab in sync with version control.
-1 0 * * * cd ${PathToMrRepo}/addons/addonFiles && git pull && crontab automatic.crontab
+1 0 * * * cd ${PathToMrRepo}/addons/addonFiles && git pull -q && crontab automatic.crontab
 
 #x  1 for addons starting with a
 
