@@ -45,7 +45,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 00  6 * * fri cd ${PathToMrRepo}/addons/focusHighlight && mr addon2svn && mr svn2addon
 
 #x  7 for addons starting with g
-00  7 * * fri cd ${PathToMrRepo}/addons/googleSpeechRecognition && mr addon2svn && mr svn2addon
+#00  7 * * fri cd ${PathToMrRepo}/addons/googleSpeechRecognition && mr addon2svn && mr svn2addon
 
 #x  8 for addons starting with h
 #x  9 for addons starting with i
