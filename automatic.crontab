@@ -31,21 +31,21 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 #x  1 for addons starting with a
 
 #x  2 for addons starting with b
-00  2 * * fri cd ${PathToMrRepo}/addons/bitChe && mr addon2svn && mr svn2addon
+00  2 * * fri cd ${PathToMrRepo}/addons/bitChe && chronic mr addon2svn && chronic mr svn2addon
 
 #x  3 for addons starting with c
 #x  4 for addons starting with d
-00  4 * * fri cd ${PathToMrRepo}/addons/dropbox && mr addon2svn && mr svn2addon
+00  4 * * fri cd ${PathToMrRepo}/addons/dropbox && chronic mr addon2svn && chronic mr svn2addon
 
 #x  5 for addons starting with e
-00  5 * * fri cd ${PathToMrRepo}/addons/emoticons && mr addon2svn && mr svn2addon
-05  5 * * fri cd ${PathToMrRepo}/addons/eMule && mr addon2svn && mr svn2addon
+00  5 * * fri cd ${PathToMrRepo}/addons/emoticons && chronic mr addon2svn && chronic mr svn2addon
+05  5 * * fri cd ${PathToMrRepo}/addons/eMule && chronic mr addon2svn && chronic mr svn2addon
 
 #x  6 for addons starting with f
-00  6 * * fri cd ${PathToMrRepo}/addons/focusHighlight && mr addon2svn && mr svn2addon
+00  6 * * fri cd ${PathToMrRepo}/addons/focusHighlight && chronic mr addon2svn && chronic mr svn2addon
 
 #x  7 for addons starting with g
-#00  7 * * fri cd ${PathToMrRepo}/addons/googleSpeechRecognition && mr addon2svn && mr svn2addon
+#00  7 * * fri cd ${PathToMrRepo}/addons/googleSpeechRecognition && chronic mr addon2svn && chronic mr svn2addon
 
 #x  8 for addons starting with h
 #x  9 for addons starting with i
@@ -55,24 +55,24 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 #x 12 for addons starting with l
 #x 13 for addons starting with m
 #x 14 for addons starting with n
-00 16 * * fri cd ${PathToMrRepo}/addons/noBeepsSpeechMode && mr addon2svn && mr svn2addon
+00 16 * * fri cd ${PathToMrRepo}/addons/noBeepsSpeechMode && chronic mr addon2svn && chronic mr svn2addon
 
 #x 15 for addons starting with o
 #x 16 for addons starting with p
-00 16 * * fri cd ${PathToMrRepo}/addons/placeMarkers && mr addon2svn && mr svn2addon
+00 16 * * fri cd ${PathToMrRepo}/addons/placeMarkers && chronic mr addon2svn && chronic mr svn2addon
 
 # x 17 for addons starting with q
 # x 18 for addons starting with r
-00 18 * * fri cd ${PathToMrRepo}/addons/readFeeds && mr addon2svn && mr svn2addon
-05 18 * * fri cd ${PathToMrRepo}/addons/resourceMonitor && mr addon2svn && mr svn2addon
+00 18 * * fri cd ${PathToMrRepo}/addons/readFeeds && chronic mr addon2svn && chronic mr svn2addon
+05 18 * * fri cd ${PathToMrRepo}/addons/resourceMonitor && chronic mr addon2svn && chronic mr svn2addon
 
 # x 19 for addons starting with s
-00 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && mr addon2svn && mr svn2addon
+00 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
 # x 20 for addons starting with t
-00  20 * * fri cd ${PathToMrRepo}/addons/teamViewer && mr addon2svn && mr svn2addon
+00  20 * * fri cd ${PathToMrRepo}/addons/teamViewer && chronic mr addon2svn && chronic mr svn2addon
 
 # x 21 for addons starting with u
-00  21 * * fri cd ${PathToMrRepo}/addons/unicodeBrailleInput && mr addon2svn && mr svn2addon
+00  21 * * fri cd ${PathToMrRepo}/addons/unicodeBrailleInput && chronic mr addon2svn && chronic mr svn2addon
 
 # x 22 for addons starting with w
 # x 23 for addons starting with x y or z
