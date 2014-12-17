@@ -3,6 +3,7 @@ $addons = array(
 	"bc" => "bitChe-2.1.nvda-addon",
 	"bc-dev" => "bitChe-2.1.nvda-addon",
 	"ccd-dev" => "clipContentsDesigner-1.0-dev.nvda-addon",
+	"cr-dev" => "columnsReview-1.0-dev.nvda-addon",
 	"cua" => "controlUsageAssistant-2.1.nvda-addon",
 	"dx" => "dropbox-3.1.nvda-addon",
 	"dx-dev" => "dropbox-4.0-dev.nvda-addon",
