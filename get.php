@@ -2,6 +2,7 @@
 $addons = array(
 	"bc" => "bitChe-2.1.nvda-addon",
 	"bc-dev" => "bitChe-2.1.nvda-addon",
+	"ccd" => "clipContentsDesigner-1.0.nvda-addon",
 	"ccd-dev" => "clipContentsDesigner-1.0-dev.nvda-addon",
 	"cr-dev" => "columnsReview-1.0-dev.nvda-addon",
 	"cua" => "controlUsageAssistant-2.1.nvda-addon",
