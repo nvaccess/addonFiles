@@ -16,6 +16,7 @@
 # For more information see the manual pages of crontab(5) and cron(8)
 # 
 # m h  dom mon dow   command
+PATH=/home/nvdal10n/bin:/usr/local/bin:/usr/bin:/bin
 PathToMrRepo=/home/nvdal10n/mr/
 00  0 * * fri cd $PathToMrRepo; mr up
 05  0 * * fri cd ${PathToMrRepo}/srt/ && mr mergePot
