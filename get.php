@@ -2,7 +2,7 @@
 $addons = array(
 	"bc" => "bitChe-2.2.nvda-addon",
 	"bc-dev" => "bitChe-2.2.nvda-addon",
-	"ccd" => "clipContentsDesigner-1.0.nvda-addon",
+	"ccd" => "clipContentsDesigner-2.0.nvda-addon",
 	"ccd-dev" => "clipContentsDesigner-2.0-dev.nvda-addon",
 	"cr-dev" => "columnsReview-2.0-dev.nvda-addon",
 	"cua" => "controlUsageAssistant-2.1.nvda-addon",
@@ -28,7 +28,7 @@ $addons = array(
 	"nb-dev" => "noBeepsSpeechMode-2.1.nvda-addon",
 	"ocr" => "http://files.nvaccess.org/nvda-addons/ocr_0.20120529.01.nvda-addon",
 	"pckbbrl" => "http://files.nvaccess.org/nvda-addons/pcKbBrl-2014.1.nvda-addon",
-	"pm" => "placeMarkers-4.2.nvda-addon",
+	"pm" => "placeMarkers-5.0.nvda-addon",
 	"pm-dev" => "placeMarkers-5.0-dev.nvda-addon",
 	"qb-dev" => "http://files.nvaccess.org/nvda-addons/quickBooks2014-2014.4.7.nvda-addon",
 	"rf" => "readFeeds-2.2.nvda-addon",
