@@ -41,8 +41,8 @@ $addons = array(
 	"spl-dev" => "stationPlaylist-5.0-dev.nvda-addon",
 	"tv" => "teamViewer-2.2.nvda-addon",
 	"tv-dev" => "teamViewer-2.2.nvda-addon",
-	"ubi" => "unicodeBrailleInput-2.2.nvda-addon",
-	"ubi-dev" => "unicodeBrailleInput-1.1-dev.nvda-addon",
+	"ubi" => "unicodeBrailleInput-2.3.nvda-addon",
+	"ubi-dev" => "unicodeBrailleInput-2.3.nvda-addon",
 	"VR" => "virtualRevision-2.0-dev.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
