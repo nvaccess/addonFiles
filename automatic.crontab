@@ -53,6 +53,8 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 #x  8 for addons starting with h
 #x  9 for addons starting with i
+00  9 * * fri cd ${PathToMrRepo}/addons/instantTranslate && chronic mr addon2svn && chronic mr svn2addon
+
 #x 10 for addons starting with j
 #x 11 for addons starting with k
 
