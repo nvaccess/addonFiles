@@ -43,7 +43,7 @@ $addons = array(
 	"tv-dev" => "teamViewer-3.0-dev.nvda-addon",
 	"ubi" => "unicodeBrailleInput-2.3.nvda-addon",
 	"ubi-dev" => "unicodeBrailleInput-2.3.nvda-addon",
-	"VR" => "virtualRevision-2.0-dev.nvda-addon",
+	"vr-dev" => "virtualRevision-2.0-dev.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
 
