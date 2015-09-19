@@ -45,6 +45,7 @@ $addons = array(
 	"ubi-dev" => "unicodeBrailleInput-2.3.nvda-addon",
 	"VR" => "virtualRevision-2.0-dev.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
+	"w10-dev" => "wintenApps-15.9.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
 
