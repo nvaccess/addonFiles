@@ -6,6 +6,7 @@ $addons = array(
 	"ccd-dev" => "clipContentsDesigner-3.1.nvda-addon",
 	"cr-dev" => "columnsReview-2.0-dev.nvda-addon",
 	"cua" => "controlUsageAssistant-2.1.nvda-addon",
+	"dw" => "DayOfTheWeek_1.0.nvda-addon",
 	"dx" => "dropbox-3.1.nvda-addon",
 	"dx-dev" => "dropbox-4.0-dev.nvda-addon",
 	"em" => "eMule-2.6.nvda-addon",
