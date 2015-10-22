@@ -38,6 +38,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 00  3 * * fri cd ${PathToMrRepo}/addons/clipContentsDesigner && chronic mr addon2svn && chronic mr svn2addon
 
 #x  4 for addons starting with d
+04  4 * * fri cd ${PathToMrRepo}/addons/dayOfTheWeek && chronic mr addon2svn && chronic mr svn2addon
 00  4 * * fri cd ${PathToMrRepo}/addons/dropbox && chronic mr addon2svn && chronic mr svn2addon
 
 #x  5 for addons starting with e
@@ -75,11 +76,14 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 # x 19 for addons starting with s
 00 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
 05 19 * * fri cd ${PathToMrRepo}/addons/systrayList && chronic mr addon2svn && chronic mr svn2addon
+
 # x 20 for addons starting with t
 00  20 * * fri cd ${PathToMrRepo}/addons/teamViewer && chronic mr addon2svn && chronic mr svn2addon
 
 # x 21 for addons starting with u
 00  21 * * fri cd ${PathToMrRepo}/addons/unicodeBrailleInput && chronic mr addon2svn && chronic mr svn2addon
 
-# x 22 for addons starting with w
+# x 22 for addons starting with v or w
+00  22 * * fri cd ${PathToMrRepo}/addons/vlc && chronic mr addon2svn && chronic mr svn2addon
+
 # x 23 for addons starting with x y or z
