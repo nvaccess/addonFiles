@@ -55,7 +55,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 #x  8 for addons starting with h
 #x  9 for addons starting with i
-00  9 * * fri cd ${PathToMrRepo}/addons/instantTranslate && chronic mr addon2svn && chronic mr svn2addon
+#00  9 * * fri cd ${PathToMrRepo}/addons/instantTranslate && chronic mr addon2svn && chronic mr svn2addon
 
 #x 10 for addons starting with j
 #x 11 for addons starting with k
@@ -63,7 +63,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 #x 12 for addons starting with l
 #x 13 for addons starting with m
 #x 14 for addons starting with n
-00 16 * * fri cd ${PathToMrRepo}/addons/noBeepsSpeechMode && chronic mr addon2svn && chronic mr svn2addon
+00 14 * * fri cd ${PathToMrRepo}/addons/noBeepsSpeechMode && chronic mr addon2svn && chronic mr svn2addon
 
 #x 15 for addons starting with o
 #x 16 for addons starting with p
