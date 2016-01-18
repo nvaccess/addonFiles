@@ -50,7 +50,7 @@ $addons = array(
 	"vlc" => "vlc-1.0.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "wintenApps-15.12.1.nvda-addon",
-	"w10-dev" => "wintenApps-15.11.1.nvda-addon",
+	"w10-dev" => "wintenApps-16.01.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
 
