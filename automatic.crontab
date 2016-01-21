@@ -18,7 +18,7 @@
 # m h  dom mon dow   command
 PATH=/home/nvdal10n/bin:/usr/local/bin:/usr/bin:/bin
 PathToMrRepo=/home/nvdal10n/mr/
-00  0 * * fri cd $PathToMrRepo; mr up
+00  0 * * fri cd $PathToMrRepo; chronic mr up
 05  0 * * fri cd ${PathToMrRepo}/srt/ && mr svn2nvda
 10  0 * * fri cd ${PathToMrRepo}/srt/ && mr mergePot
 15  0 * * fri cd ${PathToMrRepo}/srt/ && mr findRevs
