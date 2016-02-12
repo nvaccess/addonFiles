@@ -20,6 +20,7 @@ $addons = array(
 	"ew" => "extendedWinamp-1.1.nvda-addon",
 	"fh" => "https://www.nvda.jp/addons/focusHighlight-3.0.nvda-addon",
 	"fh-dev" => "https://www.nvda.jp/addons/focusHighlight-4.0-dev-151022.nvda-addon",
+	"gc" => "goldenCursor-1.0.nvda-addon",
 	"gc-dev" => "goldenCursor-1.0-dev.nvda-addon",
 	"gl" => "https://bitbucket.org/nvdaaddonteam/todo/raw/master/guideLines.txt",
 	"gwv" => "goldwave-3.3.nvda-addon",
