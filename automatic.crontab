@@ -39,8 +39,8 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 00  3 * * fri cd ${PathToMrRepo}/addons/clipContentsDesigner && chronic mr addon2svn && chronic mr svn2addon
 
 #x  4 for addons starting with d
-04  4 * * fri cd ${PathToMrRepo}/addons/dayOfTheWeek && chronic mr addon2svn && chronic mr svn2addon
-00  4 * * fri cd ${PathToMrRepo}/addons/dropbox && chronic mr addon2svn && chronic mr svn2addon
+00  4 * * fri cd ${PathToMrRepo}/addons/dayOfTheWeek && chronic mr addon2svn && chronic mr svn2addon
+05  4 * * fri cd ${PathToMrRepo}/addons/dropbox && chronic mr addon2svn && chronic mr svn2addon
 
 #x  5 for addons starting with e
 00  5 * * fri cd ${PathToMrRepo}/addons/emoticons && chronic mr addon2svn && chronic mr svn2addon
@@ -50,8 +50,8 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 00  6 * * fri cd ${PathToMrRepo}/addons/focusHighlight && chronic mr addon2svn && chronic mr svn2addon
 
 #x  7 for addons starting with g
-00  7 * * fri cd ${PathToMrRepo}/addons/goldwave && chronic mr addon2svn && chronic mr svn2addon
-#00  7 * * fri cd ${PathToMrRepo}/addons/googleSpeechRecognition && chronic mr addon2svn && chronic mr svn2addon
+00  7 * * fri cd ${PathToMrRepo}/addons/goldenCursor && chronic mr addon2svn && chronic mr svn2addon
+05  7 * * fri cd ${PathToMrRepo}/addons/goldwave && chronic mr addon2svn && chronic mr svn2addon
 
 #x  8 for addons starting with h
 #x  9 for addons starting with i
@@ -59,7 +59,6 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 #x 10 for addons starting with j
 #x 11 for addons starting with k
-
 #x 12 for addons starting with l
 #x 13 for addons starting with m
 #x 14 for addons starting with n
