@@ -2,8 +2,8 @@
 $addons = array(
 	"bc" => "bitChe-2.5.nvda-addon",
 	"bc-dev" => "bitChe-2.5.nvda-addon",
-	"ccd" => "clipContentsDesigner-3.5.nvda-addon",
-	"ccd-dev" => "clipContentsDesigner-4.2-dev.nvda-addon",
+	"ccd" => "https://github.com/nvdaaddons/clipContentsDesigner/releases/download/v4.0/clipContentsDesigner-4.0.nvda-addon",
+	"ccd-dev" => "https://github.com/nvdaaddons/clipContentsDesigner/releases/download/v4.0/clipContentsDesigner-4.0.nvda-addon",
 	"cr-dev" => "columnsReview-2.0.nvda-addon",
 	"cua" => "controlUsageAssistant-2.2.nvda-addon",
 	"dw" => "dayOfTheWeek-1.4.nvda-addon",
