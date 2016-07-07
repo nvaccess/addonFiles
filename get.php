@@ -52,7 +52,7 @@ $addons = array(
 	"VR" => "virtualRevision-2.0-dev.nvda-addon",
 	"vlc" => "vlc-1.2.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
-	"w10" => "wintenApps-16.06.1.nvda-addon",
+	"w10" => "https://github.com/josephsl/wintenApps/releases/download/16.07/wintenApps-16.07.nvda-addon",
 	"w10-dev" => "wintenApps-20160701-dev.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );

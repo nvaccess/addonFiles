@@ -88,3 +88,4 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 00  22 * * fri cd ${PathToMrRepo}/addons/vlc && chronic mr addon2svn && chronic mr svn2addon
 
 # x 23 for addons starting with x y or z
+00  23 * * fri cd ${PathToMrRepo}/addons/wintenApps && chronic mr addon2svn && chronic mr svn2addon
