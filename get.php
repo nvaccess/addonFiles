@@ -5,6 +5,7 @@ $addons = array(
 	"ccd" => "https://github.com/nvdaaddons/clipContentsDesigner/releases/download/v4.0/clipContentsDesigner-4.0.nvda-addon",
 	"ccd-dev" => "https://github.com/nvdaaddons/clipContentsDesigner/releases/download/v4.0/clipContentsDesigner-4.0.nvda-addon",
 	"cr-dev" => "columnsReview-2.0.nvda-addon",
+	"crh-dev" => "https://files.derekriemer.com/crashHero-dev.nvda-addon",
 	"cua" => "controlUsageAssistant-2.2.nvda-addon",
 	"dw" => "dayOfTheWeek-1.4.nvda-addon",
 	"dw-dev" => "dayOfTheWeek-1.3.nvda-addon",
