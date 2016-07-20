@@ -1,7 +1,7 @@
 <?php
 $addons = array(
+	"ath-dev" => "AudioThemes3D-5.1-beta.nvda-addon",
 	"bc" => "bitChe-2.5.nvda-addon",
-	"ath-dev" => "AudioThemes3D-5.0beta.nvda-addon",
 	"bc-dev" => "bitChe-2.5.nvda-addon",
 	"ccd" => "https://github.com/nvdaaddons/clipContentsDesigner/releases/download/v4.0/clipContentsDesigner-4.0.nvda-addon",
 	"ccd-dev" => "https://github.com/nvdaaddons/clipContentsDesigner/releases/download/v4.0/clipContentsDesigner-4.0.nvda-addon",
