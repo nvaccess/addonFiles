@@ -45,6 +45,7 @@ $addons = array(
 	"st-dev" => "systrayList-2.0-dev.nvda-addon",
 	"spl" => "stationPlaylist-7.3.nvda-addon",
 	"spl-dev" => "stationPlaylist-8.0-dev20160705.nvda-addon",
+	"tmast" => "https://github.com/nvdaaddons/toneMaster/releases/download/v1.2/toneMaster-1.2.nvda-addon",
 	"tod-dev" => "https://files.derekriemer.com/tipOfTheDay-dev.nvda-addon",
 	"tod" => "https://files.derekriemer.com/tipOfTheDay.nvda-addon",
 	"tv" => "teamViewer-2.3.nvda-addon",
