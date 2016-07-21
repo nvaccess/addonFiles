@@ -25,7 +25,7 @@ $addons = array(
 	"gc" => "goldenCursor-1.1.nvda-addon",
 	"gc-dev" => "goldenCursor-1.0-dev.nvda-addon",
 	"gl" => "https://bitbucket.org/nvdaaddonteam/todo/raw/master/guideLines.txt",
-	"gwv" => "goldwave-3.4.nvda-addon",
+	"gwv" => "goldwave-4.0.nvda-addon",
 	"gwv-dev" => "goldwave-3.0-dev.nvda-addon",
 	"it" => "instantTranslate-4.1-dev.nvda-addon",
 	"it-dev" => "instantTranslate-4.1-dev.nvda-addon",
@@ -38,7 +38,7 @@ $addons = array(
 	"qb-dev" => "http://files.nvaccess.org/nvda-addons/quickBooks2014-2014.4.7.nvda-addon",
 	"rf" => "https://github.com/nvdaaddons/readFeeds/releases/download/2.8/readFeeds-2.8.nvda-addon",
 	"rf-dev" => "https://github.com/nvdaaddons/readFeeds/releases/download/2.8/readFeeds-2.8.nvda-addon",
-	"rm" => "resourceMonitor-4.4.nvda-addon",
+	"rm" => "resourceMonitor-4.5.nvda-addon",
 	"rm-dev" => "resourceMonitor-4.0-dev.nvda-addon",
 	"rs-dev" => "rapidSettings-2.0dev.nvda-addon",
 	"st" => "systrayList-1.7.nvda-addon",
@@ -56,7 +56,7 @@ $addons = array(
 	"vlc" => "vlc-1.2.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/16.07/wintenApps-16.07.nvda-addon",
-	"w10-dev" => "wintenApps-20160718-dev.nvda-addon",
+	"w10-dev" => "wintenApps-20160721-dev.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
 
