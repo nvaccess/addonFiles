@@ -29,6 +29,7 @@ $addons = array(
 	"gwv-dev" => "goldwave-3.0-dev.nvda-addon",
 	"it" => "instantTranslate-4.1-dev.nvda-addon",
 	"it-dev" => "instantTranslate-4.1-dev.nvda-addon",
+	"mp3dc-dev" => "https://github.com/nvdaaddons/mp3DirectCut/releases/download/v2.2/mp3DirectCut-2.2.nvda-addon",
 	"nb" => "noBeepsSpeechMode-2.2.nvda-addon",
 	"nb-dev" => "noBeepsSpeechMode-2.2.nvda-addon",
 	"ocr" => "http://files.nvaccess.org/nvda-addons/ocr_0.20120529.01.nvda-addon",
@@ -44,7 +45,7 @@ $addons = array(
 	"st" => "systrayList-1.7.nvda-addon",
 	"st-dev" => "systrayList-2.0-dev.nvda-addon",
 	"spl" => "stationPlaylist-7.3.nvda-addon",
-	"spl-dev" => "stationPlaylist-8.0-dev20160705.nvda-addon",
+	"spl-dev" => "stationPlaylist-8.0-dev20160722.nvda-addon",
 	"tmast" => "https://github.com/nvdaaddons/toneMaster/releases/download/v1.2/toneMaster-1.2.nvda-addon",
 	"tod-dev" => "https://files.derekriemer.com/tipOfTheDay-dev.nvda-addon",
 	"tod" => "https://files.derekriemer.com/tipOfTheDay.nvda-addon",
@@ -56,7 +57,7 @@ $addons = array(
 	"vlc" => "vlc-1.2.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/16.07/wintenApps-16.07.nvda-addon",
-	"w10-dev" => "wintenApps-20160721-dev.nvda-addon",
+	"w10-dev" => "wintenApps-20160722-dev.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
 
