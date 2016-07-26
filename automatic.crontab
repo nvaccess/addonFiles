@@ -31,7 +31,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 1 * * * * cd ${PathToMrRepo}/addons/addonFiles && git pull -q && crontab automatic.crontab
 
 #x  1 for addons starting with a
-00  1 * * fri cd ${PathToMrRepo}/addons/audioThemes && chronic mr addon2svn && chronic mr svn2addon
+00  1 * * fri cd ${PathToMrRepo}/addons/audiothemes && chronic mr addon2svn && chronic mr svn2addon
 
 #x  2 for addons starting with b
 00  2 * * fri cd ${PathToMrRepo}/addons/bitChe && chronic mr addon2svn && chronic mr svn2addon
