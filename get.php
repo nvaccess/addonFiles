@@ -1,5 +1,6 @@
 <?php
 $addons = array(
+	"ath" => "https://github.com/mush42/Audio-Themes-NVDA-Add-on/releases/download/v5.1/AudioThemes3D-5.1.nvda-addon",
 	"ath-dev" => "AudioThemes3D-5.1-beta.nvda-addon",
 	"bc" => "bitChe-2.5.nvda-addon",
 	"bc-dev" => "bitChe-2.5.nvda-addon",
