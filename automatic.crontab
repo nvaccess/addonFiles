@@ -31,7 +31,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 1 * * * * cd ${PathToMrRepo}/addons/addonFiles && git pull -q && crontab automatic.crontab
 
 #x  1 for addons starting with a
-00  1 * * fri cd ${PathToMrRepo}/addons/audiothemes && chronic mr addon2svn && chronic mr svn2addon
+00  1 * * fri cd ${PathToMrRepo}/addons/audioThemes && chronic mr addon2svn && chronic mr svn2addon
 
 #x  2 for addons starting with b
 00  2 * * fri cd ${PathToMrRepo}/addons/bitChe && chronic mr addon2svn && chronic mr svn2addon
@@ -81,7 +81,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 # x 20 for addons starting with t
 00  20 * * fri cd ${PathToMrRepo}/addons/teamViewer && chronic mr addon2svn && chronic mr svn2addon
-05  20 * * fri cd ${PathToMrRepo}/addons/tonemaster && chronic mr addon2svn && chronic mr svn2addon
+05  20 * * fri cd ${PathToMrRepo}/addons/toneMaster && chronic mr addon2svn && chronic mr svn2addon
 
 # x 21 for addons starting with u
 00  21 * * fri cd ${PathToMrRepo}/addons/unicodeBrailleInput && chronic mr addon2svn && chronic mr svn2addon
