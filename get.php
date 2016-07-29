@@ -72,6 +72,7 @@ If (isset($_GET['file'])) {
 	if ($fullname != "") {
 		Header('Location:'.$fullname);
 	} else {
+		header("HTTP/1.0 404 Not Found");
 		print "<h1>File not found</h1>";
 		print "<p>The file you requested could not be found on this server.</p>";
 		print "<p>Please check that the link that brought you here is correct and try again.</p>";
