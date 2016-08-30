@@ -49,7 +49,7 @@ $addons = array(
 	"st" => "systrayList-1.7.nvda-addon",
 	"st-dev" => "systrayList-2.0-dev.nvda-addon",
 	"spl" => "stationPlaylist-7.4A.nvda-addon",
-	"spl-dev" => "stationPlaylist-16.10beta0.nvda-addon",
+	"spl-dev" => "stationPlaylist-16.10beta1.nvda-addon",
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.02/switchSynth-1.02.nvda-addon",
 	"tmast" => "https://github.com/nvdaaddons/toneMaster/releases/download/v1.2/toneMaster-1.2.nvda-addon",
 	"tod-dev" => "https://files.derekriemer.com/tipOfTheDay-dev.nvda-addon",
@@ -61,7 +61,7 @@ $addons = array(
 	"VR" => "virtualRevision-2.0-dev.nvda-addon",
 	"vlc" => "vlc-1.2.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
-	"w10" => "https://github.com/josephsl/wintenApps/releases/download/16.08.1/wintenApps-16.08.1.nvda-addon",
+	"w10" => "https://github.com/josephsl/wintenApps/releases/download/16.09/wintenApps-16.09.nvda-addon",
 	"w10-dev" => "wintenApps-20160827-dev.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
