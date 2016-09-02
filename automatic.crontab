@@ -73,6 +73,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 # x 17 for addons starting with q
 # x 18 for addons starting with r
 00 18 * * fri cd ${PathToMrRepo}/addons/readFeeds && chronic mr addon2svn && chronic mr svn2addon
+01 18 * * fri cd ${PathToMrRepo}/addons/reportSymbols && chronic mr addon2svn && chronic mr svn2addon
 05 18 * * fri cd ${PathToMrRepo}/addons/resourceMonitor && chronic mr addon2svn && chronic mr svn2addon
 
 # x 19 for addons starting with s
