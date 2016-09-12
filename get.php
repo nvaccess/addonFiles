@@ -62,7 +62,7 @@ $addons = array(
 	"vlc" => "vlc-1.2.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/16.09.1/wintenApps-16.09.1A.nvda-addon",
-	"w10-dev" => "wintenApps-20160910-dev.nvda-addon",
+	"w10-dev" => "wintenApps-20160912-dev.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
 
