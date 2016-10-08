@@ -64,7 +64,7 @@ $addons = array(
 	"vlc" => "vlc-1.2.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/16.10/wintenApps-16.10.nvda-addon",
-	"w10-dev" => "https://github.com/josephsl/wintenApps/releases/download/16.10/wintenApps-16.10.nvda-addon",
+	"w10-dev" => "wintenApps-20161008-dev.nvda-addon",
 	"wetp" => "http://www.nvda.it/system/files/plugin/weather_plus4.1.nvda-addon?download=1",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
