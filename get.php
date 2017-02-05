@@ -53,7 +53,7 @@ $addons = array(
 	"st" => "systrayList-1.8.nvda-addon",
 	"st-dev" => "systrayList-2.0-dev.nvda-addon",
 	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/17.02/stationPlaylist-17.02.nvda-addon",
-	"spl-dev" => "stationPlaylist-17.04-dev20170131.nvda-addon",
+	"spl-dev" => "http://www.josephsl.net/files/nvdaaddons/get.php?file=spl-dev",
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.02/switchSynth-1.02.nvda-addon",
 	"tmast" => "https://github.com/nvdaaddons/toneMaster/releases/download/v1.2/toneMaster-1.2.nvda-addon",
 	"tod-dev" => "https://files.derekriemer.com/tipOfTheDay-dev.nvda-addon",
@@ -66,7 +66,7 @@ $addons = array(
 	"vlc" => "vlc-1.3.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/17.02/wintenApps-17.02.nvda-addon",
-	"w10-dev" => "http://josephsl.net/files/nvdaaddons/get.php?file=w10-dev",
+	"w10-dev" => "http://www.josephsl.net/files/nvdaaddons/get.php?file=w10-dev",
 	"wetp" => "http://www.nvda.it/system/files/plugin/weather_plus4.2.nvda-addon?download=1",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
