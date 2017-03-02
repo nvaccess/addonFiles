@@ -52,7 +52,7 @@ $addons = array(
 	"rsy-dev" => "https://github.com/nvdaes/reportSymbols/releases/download/2.0/reportSymbols-2.0.nvda-addon",
 	"st" => "systrayList-1.8.nvda-addon",
 	"st-dev" => "systrayList-2.0-dev.nvda-addon",
-	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/17.02/stationPlaylist-17.02.nvda-addon",
+	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/17.03/stationPlaylist-17.03.nvda-addon",
 	"spl-dev" => "http://www.josephsl.net/files/nvdaaddons/get.php?file=spl-dev",
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.02/switchSynth-1.02.nvda-addon",
 	"tmast" => "https://github.com/nvdaaddons/toneMaster/releases/download/v1.2/toneMaster-1.2.nvda-addon",
