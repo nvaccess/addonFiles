@@ -44,6 +44,7 @@ $addons = array(
 	"pm" => "https://github.com/nvdaes/placeMarkers/releases/download/7.2/placeMarkers-7.2.nvda-addon",
 	"pm-dev" => "https://github.com/nvdaes/placeMarkers/releases/download/7.2/placeMarkers-7.2.nvda-addon",
 	"qb-dev" => "https://www.nvaccess.org/files/nvda-addons/quickBooks2014-2014.4.7.nvda-addon",
+	"rccp-dev" => "https://github.com/tuukkao/nvda-reviewCursorCopier/releases/download/0.2-dev/reviewCursorCopier-0.2-dev.nvda-addon",
 	"rf" => "https://github.com/nvdaes/readFeeds/releases/download/3.2/readFeeds-3.2.nvda-addon",
 	"rf-dev" => "https://github.com/nvdaes/readFeeds/releases/download/3.2/readFeeds-3.2.nvda-addon",
 	"rm" => "https://github.com/josephsl/resourceMonitor/releases/download/17.04/resourceMonitor-17.04.nvda-addon",
