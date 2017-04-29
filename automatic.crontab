@@ -75,6 +75,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 00 18 * * fri cd ${PathToMrRepo}/addons/readFeeds && chronic mr addon2svn && chronic mr svn2addon
 01 18 * * fri cd ${PathToMrRepo}/addons/reportSymbols && chronic mr addon2svn && chronic mr svn2addon
 05 18 * * fri cd ${PathToMrRepo}/addons/resourceMonitor && chronic mr addon2svn && chronic mr svn2addon
+09 18 * * fri cd ${PathToMrRepo}/addons/reviewCursorCopier && chronic mr addon2svn && chronic mr svn2addon
 
 # x 19 for addons starting with s
 00 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
