@@ -9,6 +9,7 @@ $addons = array(
 	"ccd-dev" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/5.2/clipContentsDesigner-5.2.nvda-addon",
 	"cr-dev" => "columnsReview-3.0-dev.nvda-addon",
 	"crh-dev" => "https://files.derekriemer.com/crashHero-dev.nvda-addon",
+	"cs" => "clipSpeak-1.0.nvda-addon",
 	"cont" => "https://github.com/derekriemer/consoleTimer/releases/download/v1.0/consoleTimer-1.0.nvda-addon",
 	"cua" => "controlUsageAssistant-2.4.nvda-addon",
 	"dw" => "dayOfTheWeek-1.4.nvda-addon",
