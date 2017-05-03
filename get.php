@@ -59,6 +59,7 @@ $addons = array(
 	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/17.05/stationPlaylist-17.05.nvda-addon",
 	"spl-dev" => "http://www.josephsl.net/files/nvdaaddons/get.php?file=spl-dev",
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.02/switchSynth-1.02.nvda-addon",
+	"spp" => "https://github.com/tspivey/speakPasswords/releases/download/v1.0/speakPasswords-1.0.nvda-addon",
 	"tmast" => "https://github.com/nvdaaddons/toneMaster/releases/download/v1.2/toneMaster-1.2.nvda-addon",
 	"tod-dev" => "https://files.derekriemer.com/tipOfTheDay-dev.nvda-addon",
 	"tod" => "https://files.derekriemer.com/tipOfTheDay.nvda-addon",
