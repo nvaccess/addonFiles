@@ -5,6 +5,7 @@ $addons = array(
 	"bc" => "bitChe-2.6.nvda-addon",
 	"bc-dev" => "bitChe-2.6.nvda-addon",
 	"clsel" => "https://github.com/tspivey/classicSelection/releases/download/v1.0/classicSelection-1.0.nvda-addon",
+	"clpcpy" => "https://github.com/jscholes/nvda-speech-history/releases/download/v2017.05.13/speechHistory.nvda-addon",
 	"ccd" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/5.3/clipContentsDesigner-5.3.nvda-addon",
 	"ccd-dev" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/5.3/clipContentsDesigner-5.3.nvda-addon",
 	"cr-dev" => "columnsReview-3.0-dev.nvda-addon",
