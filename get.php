@@ -38,6 +38,7 @@ $addons = array(
 	"mirc" => "mirc-1.6.nvda-addon",
 	"mush" => "mushClient-1.3.nvda-addon",
 	"nb" => "noBeepsSpeechMode-2.3.nvda-addon",
+	"lambda" => "https://github.com/nvdaaddons/lambda/releases/download/dev/lambda-dev.nvda-addon",
 	"objPad" => "https://github.com/josephsl/objPad/releases/download/16.12/objPad-16.12.nvda-addon",
 	"objPad-dev" => "https://github.com/josephsl/objPad/releases/download/16.12/objPad-16.12.nvda-addon",
 	"ocr" => "https://www.nvaccess.org/files/nvda-addons/ocr_0.20120529.01.nvda-addon",
