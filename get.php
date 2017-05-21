@@ -16,6 +16,7 @@ $addons = array(
 	"dw-dev" => "dayOfTheWeek-1.3.nvda-addon",
 	"dx" => "dropbox-4.3.nvda-addon",
 	"dx-dev" => "dropbox-4.0-dev.nvda-addon",
+	"earia" => "https://github.com/jmdaweb/enhancedAria/releases/download/v1.2-dev/enhancedAria-1.2-dev.nvda-addon",
 	"em" => "https://github.com/nvdaes/eMule/releases/download/3.5/eMule-3.5.nvda-addon",
 	"em-dev" => "https://github.com/nvdaes/eMule/releases/download/3.5/eMule-3.5.nvda-addon",
 	"emo" => "https://github.com/nvdaes/emoticons/releases/download/5.5/emoticons-5.5.nvda-addon",
