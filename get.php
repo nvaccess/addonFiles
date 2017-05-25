@@ -56,7 +56,7 @@ $addons = array(
 	"rs-dev" => "rapidSettings-2.0-dev.nvda-addon",
 	"rsy" => "https://github.com/nvdaes/reportSymbols/releases/download/2.2/reportSymbols-2.2.nvda-addon",
 	"rsy-dev" => "https://github.com/nvdaes/reportSymbols/releases/download/2.2/reportSymbols-2.2.nvda-addon",
-	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/17.05.1/stationPlaylist-17.05.1.nvda-addon",
+	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/17.06/stationPlaylist-17.06.nvda-addon",
 	"spl-dev" => "http://www.josephsl.net/files/nvdaaddons/get.php?file=spl-dev",
 	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/v2017.05.13/speechHistory.nvda-addon",
 	"st" => "systrayList-2.0.nvda-addon",
