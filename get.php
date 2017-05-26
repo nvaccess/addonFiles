@@ -4,6 +4,7 @@ $addons = array(
 	"ath-dev" => "AudioThemes3D-5.1-beta.nvda-addon",
 	"bc" => "bitChe-2.6.nvda-addon",
 	"bc-dev" => "bitChe-2.6.nvda-addon",
+	"bgt" => "https://github.com/sykesman/NVDA-BGT/releases/download/1.0-dev/bgt_lullaby-1.0-dev.nvda-addon",
 	"clsel" => "https://github.com/tspivey/classicSelection/releases/download/v1.0/classicSelection-1.0.nvda-addon",
 	"ccd" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/5.3/clipContentsDesigner-5.3.nvda-addon",
 	"ccd-dev" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/5.3/clipContentsDesigner-5.3.nvda-addon",
