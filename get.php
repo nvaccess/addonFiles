@@ -59,7 +59,7 @@ $addons = array(
 	"rsy" => "https://github.com/nvdaes/reportSymbols/releases/download/2.2/reportSymbols-2.2.nvda-addon",
 	"rsy-dev" => "https://github.com/nvdaes/reportSymbols/releases/download/2.2/reportSymbols-2.2.nvda-addon",
 	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/17.06/stationPlaylist-17.06.nvda-addon",
-	"spl-dev" => "http://www.josephsl.net/files/nvdaaddons/get.php?file=spl-dev",
+	"spl-dev" => "http://www.josephsl.net/files/nvdaaddons/getupdate.php?file=spl-dev",
 	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/v2017.05.13/speechHistory.nvda-addon",
 	"st" => "systrayList-2.0.nvda-addon",
 	"st-dev" => "systrayList-2.0.nvda-addon",
@@ -76,7 +76,7 @@ $addons = array(
 	"vlc" => "vlc-1.3.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/17.06.1/wintenApps-17.06.1.nvda-addon",
-	"w10-dev" => "http://www.josephsl.net/files/nvdaaddons/get.php?file=w10-dev",
+	"w10-dev" => "http://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wetp" => "http://www.nvda.it/system/files/plugin/weather_plus4.3.nvda-addon?download=1",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
