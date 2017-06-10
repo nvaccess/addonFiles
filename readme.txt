@@ -1,4 +1,4 @@
-This repo controls the file area of https://addons.nvda-project.org/files
+This repo controls the file area of https://addons.nvda-project.org under files section.
 
 if the addon is small and you dont have a place to host it, then add it 
 to this git repo and push it.
