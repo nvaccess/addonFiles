@@ -1,3 +1,5 @@
+Readme test
+
 This repo controls the file area of https://addons.nvda-project.org/files
 
 if the addon is small and you dont have a place to host it, then add it 
