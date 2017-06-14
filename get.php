@@ -57,7 +57,7 @@ $addons = array(
 	"rm-dev" => "resourceMonitor-20170419-dev.nvda-addon",
 	"rs-dev" => "rapidSettings-2.0-dev.nvda-addon",
 	"rsy" => "https://github.com/nvdaes/reportSymbols/releases/download/2.2/reportSymbols-2.2.nvda-addon",
-	"rsy-dev" => "https://github.com/nvdaes/reportSymbols/releases/download/2.2/reportSymbols-2.2.nvda-addon",
+	"rsy-dev" => "https://github.com/nvdaes/reportSymbols/releases/download/3.0-dev/reportSymbols-3.0-dev.nvda-addon",
 	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/17.06/stationPlaylist-17.06.nvda-addon",
 	"spl-dev" => "http://www.josephsl.net/files/nvdaaddons/getupdate.php?file=spl-dev",
 	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/v2017.05.13/speechHistory.nvda-addon",
