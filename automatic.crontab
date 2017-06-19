@@ -62,6 +62,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 #x 10 for addons starting with j
 #x 11 for addons starting with k
 #x 12 for addons starting with l
+08  7 * * fri cd ${PathToMrRepo}/addons/lambda && chronic mr addon2svn && chronic mr svn2addon
 #x 13 for addons starting with m
 #x 14 for addons starting with n
 00 14 * * fri cd ${PathToMrRepo}/addons/noBeepsSpeechMode && chronic mr addon2svn && chronic mr svn2addon
