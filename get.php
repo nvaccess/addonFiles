@@ -40,6 +40,7 @@ $addons = array(
 	"mirc" => "mirc-1.6.nvda-addon",
 	"mush" => "mushClient-1.3.nvda-addon",
 	"nb" => "noBeepsSpeechMode-2.3.nvda-addon",
+	"lambda" => "https://github.com/lambda-nvda/lambdaNvda/releases/download/1.1.8/lambda-1.1.8.nvda-addon",
 	"lambda-dev" => "https://github.com/nvdaaddons/lambda/releases/download/dev/lambda-dev.nvda-addon",
 	"objLoc" => "https://github.com/josephsl/objLocationTones/releases/download/17.06/objLocTones-17.06.nvda-addon",
 	"objPad" => "https://github.com/josephsl/objPad/releases/download/16.12/objPad-16.12.nvda-addon",
