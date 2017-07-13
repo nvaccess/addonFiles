@@ -8,6 +8,7 @@ $addons = array(
 	"clsel" => "https://github.com/tspivey/classicSelection/releases/download/v1.0/classicSelection-1.0.nvda-addon",
 	"ccd" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/5.4/clipContentsDesigner-5.4.nvda-addon",
 	"ccd-dev" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/5.4/clipContentsDesigner-5.4.nvda-addon",
+	"ckbl" => "https://github.com/abdel792/sayCurrentKeyboardLanguage/releases/download/v1.1/sayCurrentKeyboardLanguage-1.1.nvda-addon",
 	"cr-dev" => "columnsReview-3.0-dev.nvda-addon",
 	"crh-dev" => "https://files.derekriemer.com/crashHero-dev.nvda-addon",
 	"cs" => "https://github.com/sykesman/NVDAAddon-Clipspeak/releases/download/v1.0-Prerelease/clipspeak-1.0.nvda-addon",
