@@ -80,6 +80,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 09 18 * * fri cd ${PathToMrRepo}/addons/reviewCursorCopier && chronic mr addon2svn && chronic mr svn2addon
 
 # x 19 for addons starting with s
+05 19 * * fri cd ${PathToMrRepo}/addons/sayCurrentKeyboardLanguage && chronic mr addon2svn && chronic mr svn2addon
 00 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
 05 19 * * fri cd ${PathToMrRepo}/addons/systrayList && chronic mr addon2svn && chronic mr svn2addon
 
