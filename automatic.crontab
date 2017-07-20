@@ -19,9 +19,9 @@
 PATH=/home/nvdal10n/bin:/usr/local/bin:/usr/bin:/bin
 PathToMrRepo=/home/nvdal10n/mr/
 00  0 * * fri cd $PathToMrRepo; chronic mr up
-05  0 * * fri cd ${PathToMrRepo}/srt/ && mr svn2nvda
-10  0 * * fri cd ${PathToMrRepo}/srt/ && mr mergePot
-15  0 * * fri cd ${PathToMrRepo}/srt/ && mr findRevs
+05  0 * * fri cd ${PathToMrRepo}/srt/ && chronic mr svn2nvda
+10  0 * * fri cd ${PathToMrRepo}/srt/ && chronic mr mergePot
+15  0 * * fri cd ${PathToMrRepo}/srt/ && chronic mr findRevs
 
 srt_scripts=/home/nvdal10n/mr/srt/scripts/
 poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
