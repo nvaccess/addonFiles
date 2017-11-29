@@ -80,7 +80,7 @@ $addons = array(
 	"vsb-dev" => "https://github.com/nvdaes/vitalsourcebookshelf/releases/download/1.1/vitalSourceBookshelf-1.1.nvda-addon",
 	"vlc" => "vlc-1.3.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
-	"w10" => "https://github.com/josephsl/wintenApps/releases/download/17.11/wintenApps-17.11.1.nvda-addon",
+	"w10" => "https://github.com/josephsl/wintenApps/releases/download/17.12/wintenApps-17.12.nvda-addon",
 	"w10-dev" => "http://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wetp" => "http://www.nvda.it/files/plugin/weather_plus4.6.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
