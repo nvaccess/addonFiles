@@ -62,7 +62,7 @@ $addons = array(
 	"rs-dev" => "rapidSettings-2.0-dev.nvda-addon",
 	"rsy" => "https://github.com/nvdaes/reportSymbols/releases/download/3.2/reportSymbols-3.2.nvda-addon",
 	"rsy-dev" => "https://github.com/nvdaes/reportSymbols/releases/download/3.2/reportSymbols-3.2.nvda-addon",
-	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/17.12/stationPlaylist-17.12.1.nvda-addon",
+	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/18.01/stationPlaylist-18.01.nvda-addon",
 	"spl-dev" => "http://www.josephsl.net/files/nvdaaddons/getupdate.php?file=spl-dev",
 	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/v2017.05.13/speechHistory.nvda-addon",
 	"st" => "systrayList-2.1.nvda-addon",
@@ -81,7 +81,7 @@ $addons = array(
 	"vsb-dev" => "https://github.com/nvdaes/vitalsourcebookshelf/releases/download/1.1/vitalSourceBookshelf-1.1.nvda-addon",
 	"vlc" => "vlc-1.3.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
-	"w10" => "https://github.com/josephsl/wintenApps/releases/download/17.12/wintenApps-17.12.1.nvda-addon",
+	"w10" => "https://github.com/josephsl/wintenApps/releases/download/18.01/wintenApps-18.01.nvda-addon",
 	"w10-dev" => "http://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wetp" => "http://www.nvda.it/files/plugin/weather_plus4.6.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
