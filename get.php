@@ -37,6 +37,7 @@ $addons = array(
 	"gwv-dev" => "https://github.com/josephsl/goldWave/releases/download/17.11/goldwave-17.11.nvda-addon",
 	"it" => "instantTranslate-4.1-dev.nvda-addon",
 	"it-dev" => "instantTranslate-4.1-dev.nvda-addon",
+	"indentnav-dev" => "indentNav-1.1.nvda-addon",
 	"lambda" => "https://github.com/lambda-nvda/lambdaNvda/releases/download/1.2.1a/lambda-1.2.1a.nvda-addon",
 	"lambda-dev" => "https://lambda-nvda.github.io/dev_broker.html",
 	"mp3dc" => "https://github.com/abdel792/mp3DirectCut/releases/download/v3.6/mp3DirectCut-3.6.nvda-addon",
