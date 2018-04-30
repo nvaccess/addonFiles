@@ -83,7 +83,7 @@ $addons = array(
 	"VR" => "virtualRevision-2.2.nvda-addon",
 	"vlc" => "vlc-1.3.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
-	"w10" => "https://github.com/josephsl/wintenApps/releases/download/18.05/wintenApps-18.05.nvda-addon",
+	"w10" => "https://github.com/josephsl/wintenApps/releases/download/18.05/wintenApps-18.05.1.nvda-addon",
 	"w10-dev" => "http://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wetp" => "http://www.nvda.it/files/plugin/weather_plus4.7.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
