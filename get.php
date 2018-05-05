@@ -78,6 +78,7 @@ $addons = array(
 	"tod" => "https://files.derekriemer.com/tipOfTheDay.nvda-addon",
 	"tv" => "teamViewer-2.3.nvda-addon",
 	"tv-dev" => "teamViewer-3.0-dev.nvda-addon",
+	"txtinfo" => "https://github.com/cartertemm/text_information/releases/download/1.0/textInformation-1.0.nvda-addon",
 	"ubi" => "unicodeBrailleInput-2.7.nvda-addon",
 	"ubi-dev" => "unicodeBrailleInput-2.7.nvda-addon",
 	"VR" => "virtualRevision-2.2.nvda-addon",
