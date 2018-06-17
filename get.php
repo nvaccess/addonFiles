@@ -83,7 +83,7 @@ $addons = array(
 	"ubi-dev" => "unicodeBrailleInput-2.8.nvda-addon",
 	"VR" => "virtualRevision-2.2.nvda-addon",
 	"vlc" => "vlc-1.3.nvda-addon",
-	"vlc-18" => "https://github.com/javidominguez/VLC/releases/download/2.1/VLC-2.1.nvda-addon",
+	"vlc-18" => "https://github.com/javidominguez/VLC/releases/download/2.2/VLC-2.2.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/18.06/wintenApps-18.06A.nvda-addon",
 	"w10-dev" => "http://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
