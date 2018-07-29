@@ -85,7 +85,7 @@ $addons = array(
 	"VR" => "virtualRevision-2.2.nvda-addon",
 	"vlc" => "vlc-1.3.nvda-addon",
 	"vlc-18" => "https://github.com/javidominguez/VLC/releases/download/2.4/VLC-2.4.nvda-addon",
-	"vlc-dev" => "https://github.com/javidominguez/VLC/releases/download/2.5dev/VLC-2.5dev.nvda-addon",
+	"vlc-dev" => "https://github.com/javidominguez/VLC/releases/download/2.6dev/VLC-2.6dev.multilanguage.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/18.08/wintenApps-18.08.nvda-addon",
 	"w10-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
