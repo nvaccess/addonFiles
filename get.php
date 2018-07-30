@@ -107,6 +107,8 @@ If (isset($_GET['file'])) {
 		print "<p>Please check that the link that brought you here is correct and try again.</p>";
 		print "<p>Thanks</p>";
 	}
+} else If (isset($_GET['addonslist'])) {
+	echo json_encode($addons);
 } else {
 	print "<h1>Error:</h1>";
 	print "<p>Please check that the link that brought you here is correct and try again.</p>";
