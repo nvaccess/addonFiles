@@ -49,7 +49,7 @@ $addons = array(
 	"moz" => "https://github.com/javidominguez/MozillaScripts/releases/download/1.5/Mozilla-1.5.nvda-addon",
 	"mush" => "mushClient-1.3.nvda-addon",
 	"nb" => "noBeepsSpeechMode-2.3.nvda-addon",
-	"nvda3208" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=nvda3208",
+	"nvda3208" => "addonUpdater-18.08.4.nvda-addon",
 	"nvda7857" => "screenCurtain-20180803.nvda-addon",
 	"objLoc" => "https://github.com/josephsl/objLocationTones/releases/download/17.12/objLocTones-17.12A.nvda-addon",
 	"objPad" => "https://github.com/josephsl/objPad/releases/download/18.03/objPad-18.03.nvda-addon",
