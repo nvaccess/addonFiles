@@ -41,6 +41,7 @@ $addons = array(
 	"it" => "instantTranslate-4.2-dev.nvda-addon",
 	"it-dev" => "instantTranslate-4.2-dev.nvda-addon",
 	"indentnav" => "https://github.com/mltony/nvda-indent-nav/releases/download/v1.3/IndentNav-1.3.nvda-addon",
+	"inputlock" => "https://github.com/jmdaweb/inputLock/releases/download/v1.4/inputLock-1.4.nvda-addon",
 	"lambda" => "https://github.com/lambda-nvda/lambdaNvda/releases/download/1.2.1a/lambda-1.2.1a.nvda-addon",
 	"lambda-dev" => "https://lambda-nvda.github.io/dev_broker.html",
 	"mp3dc" => "https://github.com/abdel792/mp3DirectCut/releases/download/v4.2/mp3DirectCut-4.2.nvda-addon",
