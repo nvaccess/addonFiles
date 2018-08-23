@@ -72,6 +72,8 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 00 14 * * fri cd ${PathToMrRepo}/addons/noBeepsSpeechMode && chronic mr addon2svn && chronic mr svn2addon
 
 #x 15 for addons starting with o
+00 15 * * fri cd ${PathToMrRepo}/addons/objPad && chronic mr addon2svn && chronic mr svn2addon
+
 #x 16 for addons starting with p
 00 16 * * fri cd ${PathToMrRepo}/addons/placeMarkers && chronic mr addon2svn && chronic mr svn2addon
 
