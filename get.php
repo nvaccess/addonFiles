@@ -54,6 +54,7 @@ $addons = array(
 	"nb" => "noBeepsSpeechMode-2.3.nvda-addon",
 	"nvda3208" => "addonUpdater-20180922.nvda-addon",
 	"nvda7857" => "screenCurtain-20180807.nvda-addon",
+	"nvdaremote" => "https://nvdaremote.com/remote-2.2.nvda-addon",
 	"objLoc" => "https://github.com/josephsl/objLocationTones/releases/download/17.12/objLocTones-17.12A.nvda-addon",
 	"objPad" => "https://github.com/josephsl/objPad/releases/download/18.09/objPad-18.09.nvda-addon",
 	"objPad-dev" => "https://github.com/josephsl/objPad/releases/download/18.09/objPad-18.09.nvda-addon",
