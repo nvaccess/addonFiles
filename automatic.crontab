@@ -92,6 +92,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 # x 20 for addons starting with t
 00  20 * * fri cd ${PathToMrRepo}/addons/teamViewer && chronic mr addon2svn && chronic mr svn2addon
 05  20 * * fri cd ${PathToMrRepo}/addons/toneMaster && chronic mr addon2svn && chronic mr svn2addon
+10  20 * * fri cd ${PathToMrRepo}/addons/toolbarsExplorer && chronic mr addon2svn && chronic mr svn2addon
 
 # x 21 for addons starting with u
 00  21 * * fri cd ${PathToMrRepo}/addons/unicodeBrailleInput && chronic mr addon2svn && chronic mr svn2addon
