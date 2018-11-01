@@ -8,6 +8,8 @@ $addons = array(
 	"bgt" => "https://github.com/sykesman/NVDA-BGT/releases/download/1.0-dev/bgt_lullaby-1.0-dev.nvda-addon",
 	"brlext" => "https://andreabc.net/projects/NVDA_addons/BrailleExtender/latest",
 	"brlext-dev" => "https://andreabc.net/projects/NVDA_addons/BrailleExtender/latest?channel=dev",
+	"cae" => "calibre-1.0.nvda-addon",
+	"cae-dev" => "calibre-dev20181031.nvda-addon",
 	"clsel" => "https://github.com/tspivey/classicSelection/releases/download/v1.0/classicSelection-1.0.nvda-addon",
 	"ccd" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/8.4/clipContentsDesigner-8.4.nvda-addon",
 	"ccd-dev" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/8.4/clipContentsDesigner-8.4.nvda-addon",
