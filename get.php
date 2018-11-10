@@ -1,7 +1,7 @@
 <?php
 $addons = array(
-	"ath" => "https://github.com/mush42/Audio-Themes-NVDA-Add-on/releases/download/v5.1/AudioThemes3D-5.1.nvda-addon",
 	"access8math" => "https://github.com/tsengwoody/Access8Math/releases/download/v1.5/Access8Math-1.5.nvda-addon",
+	"ath" => "https://github.com/mush42/Audio-Themes-NVDA-Add-on/releases/download/v5.1/AudioThemes3D-5.1.nvda-addon",
 	"ath-dev" => "https://github.com/mush42/Audio-Themes-NVDA-Add-on/releases/download/v5.1/AudioThemes3D-5.1.nvda-addon",
 	"bc" => "bitChe-2.7.nvda-addon",
 	"bc-dev" => "bitChe-2.7.nvda-addon",
