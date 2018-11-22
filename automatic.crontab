@@ -32,10 +32,12 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 #x  1 for addons starting with a
 00  1 * * fri cd ${PathToMrRepo}/addons/addonUpdater && chronic mr addon2svn && chronic mr svn2addon
+02  1 * * fri cd ${PathToMrRepo}/addons/audioChart && chronic mr addon2svn && chronic mr svn2addon
 05  1 * * fri cd ${PathToMrRepo}/addons/AudioThemes3D && chronic mr addon2svn && chronic mr svn2addon
 
 #x  2 for addons starting with b
 00  2 * * fri cd ${PathToMrRepo}/addons/bitChe && chronic mr addon2svn && chronic mr svn2addon
+05  2 * * fri cd ${PathToMrRepo}/addons/bluetoothaudio && chronic mr addon2svn && chronic mr svn2addon
 
 #x  3 for addons starting with c
 00  3 * * fri cd ${PathToMrRepo}/addons/clipContentsDesigner && chronic mr addon2svn && chronic mr svn2addon
@@ -60,6 +62,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 #x  8 for addons starting with h
 #x  9 for addons starting with i
+05  9 * * fri cd ${PathToMrRepo}/addons/IndentNav && chronic mr addon2svn && chronic mr svn2addon
 #00  9 * * fri cd ${PathToMrRepo}/addons/instantTranslate && chronic mr addon2svn && chronic mr svn2addon
 
 #x 10 for addons starting with j
@@ -88,11 +91,13 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 # x 19 for addons starting with s
 00 19 * * fri cd ${PathToMrRepo}/addons/sayCurrentKeyboardLanguage && chronic mr addon2svn && chronic mr svn2addon
+02 19 * * fri cd ${PathToMrRepo}/addons/SentenceNav && chronic mr addon2svn && chronic mr svn2addon
 05 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
 10 19 * * fri cd ${PathToMrRepo}/addons/systrayList && chronic mr addon2svn && chronic mr svn2addon
 
 # x 20 for addons starting with t
 00  20 * * fri cd ${PathToMrRepo}/addons/teamViewer && chronic mr addon2svn && chronic mr svn2addon
+02  20 * * fri cd ${PathToMrRepo}/addons/textnav && chronic mr addon2svn && chronic mr svn2addon
 05  20 * * fri cd ${PathToMrRepo}/addons/toneMaster && chronic mr addon2svn && chronic mr svn2addon
 10  20 * * fri cd ${PathToMrRepo}/addons/toolbarsExplorer && chronic mr addon2svn && chronic mr svn2addon
 
