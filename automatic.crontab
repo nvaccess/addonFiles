@@ -32,7 +32,6 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 #x  1 for addons starting with a
 00  1 * * fri cd ${PathToMrRepo}/addons/addonUpdater && chronic mr addon2svn && chronic mr svn2addon
-05  4 * * sat cd ${PathToMrRepo}/addons/addonUpdater && chronic mr addon2svn && chronic mr svn2addon
 02  1 * * fri cd ${PathToMrRepo}/addons/audioChart && chronic mr addon2svn && chronic mr svn2addon
 05  1 * * fri cd ${PathToMrRepo}/addons/AudioThemes3D && chronic mr addon2svn && chronic mr svn2addon
 
