@@ -43,6 +43,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 00  3 * * fri cd ${PathToMrRepo}/addons/clipContentsDesigner && chronic mr addon2svn && chronic mr svn2addon
 05  3 * * fri cd ${PathToMrRepo}/addons/controlUsageAssistant && chronic mr addon2svn && chronic mr svn2addon
 10  3 * * fri cd ${PathToMrRepo}/addons/calibre && chronic mr addon2svn && chronic mr svn2addon
+15  3 * * fri cd ${PathToMrRepo}/addons/clock && chronic mr addon2svn && chronic mr svn2addon
 
 #x  4 for addons starting with d
 00  4 * * fri cd ${PathToMrRepo}/addons/dayOfTheWeek && chronic mr addon2svn && chronic mr svn2addon
