@@ -11,7 +11,7 @@ $addons = array(
 	"brlext-dev" => "https://andreabc.net/projects/NVDA_addons/BrailleExtender/latest?channel=dev",
 	"btaudio" => "https://github.com/mltony/nvda-bluetooth-audio/releases/download/v1.0/bluetoothaudio-1.0.nvda-addon",
 	"cac" => "http://cyber25.free.fr/nvda-addons/clock-18.12.nvda-addon",
-	"cac-dev" => "http://cyber25.free.fr/nvda-addons/clock-18.12-dev.nvda-addon",
+	"cac-dev" => "https://github.com/hkatic/clock/releases/download/v19.01-dev/clock-19.01-dev.nvda-addon",
 	"cae" => "https://github.com/javidominguez/Calibre/releases/download/1.2/calibre-1.2.nvda-addon",
 	"cae-dev" => "https://github.com/javidominguez/Calibre/releases/download/1.2/calibre-1.2.nvda-addon",
 	"clsel" => "https://github.com/tspivey/classicSelection/releases/download/v1.0/classicSelection-1.0.nvda-addon",
