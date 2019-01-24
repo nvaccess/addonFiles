@@ -25,7 +25,7 @@ PathToMrRepo=/home/nvdal10n/mr/
 
 srt_scripts=/home/nvdal10n/mr/srt/scripts/
 poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
-2,12,22,32,42,52 * * * * cd $srt_scripts; ./poStatus.sh >${poStatusHtml}
+22 * * * * cd $srt_scripts; ./poStatus.sh >${poStatusHtml}
 
 # Keep live crontab in sync with version control.
 1 * * * * cd ${PathToMrRepo}/addons/addonFiles && git pull -q && crontab automatic.crontab
