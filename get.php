@@ -85,7 +85,7 @@ $addons = array(
 	"rsy-o" => "https://github.com/nvdaes/reportSymbols/releases/download/3.6/reportSymbols-3.6.nvda-addon",
 	"sentencenav" => "https://github.com/mltony/nvda-sentence-nav/releases/download/v2.0/SentenceNav-2.0.nvda-addon",
 	"spie" => "https://www.nvaccess.org/files/nvda-addons/speechPlayerInEspeak-0.4.nvda-addon",
-	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/19.01/stationPlaylist-19.01.2.nvda-addon",
+	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/19.02/stationPlaylist-19.02.nvda-addon",
 	"spl-lts18" => "https://github.com/josephsl/stationPlaylist/releases/download/19.01/stationPlaylist-18.09.6B-lts.nvda-addon",
 	"spl-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=spl-dev",
 	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/v2017.05.13/speechHistory.nvda-addon",
@@ -110,7 +110,7 @@ $addons = array(
 	"vlc-18" => "https://github.com/javidominguez/VLC/releases/download/2.8/VLC-2.8.nvda-addon",
 	"vlc-dev" => "https://github.com/javidominguez/VLC/releases/download/dev20181111/VLC-dev20181111.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
-	"w10" => "https://github.com/josephsl/wintenApps/releases/download/19.01/wintenApps-19.01.2.nvda-addon",
+	"w10" => "https://github.com/josephsl/wintenApps/releases/download/19.02/wintenApps-19.02.nvda-addon",
 	"w10-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
