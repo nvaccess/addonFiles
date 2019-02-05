@@ -30,6 +30,7 @@ $addons = array(
 	"dx" => "dropbox-4.3.nvda-addon",
 	"dx-dev" => "dropbox-4.3.nvda-addon",
 	"earia" => "https://github.com/jmdaweb/enhancedAria/releases/download/v2.4/enhancedAria-2.4.nvda-addon",
+	"earia-stable" => "https://github.com/jmdaweb/enhancedAria/releases/download/v2.4/enhancedAria-2.4.nvda-addon",
 	"em" => "https://github.com/nvdaes/eMule/releases/download/3.19/eMule-3.19.nvda-addon",
 	"em-dev" => "https://github.com/nvdaes/eMule/releases/download/3.19/eMule-3.19.nvda-addon",
 	"emo" => "https://github.com/nvdaes/emoticons/releases/download/9.1/emoticons-9.1.nvda-addon",
