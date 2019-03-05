@@ -17,7 +17,7 @@ $addons = array(
 	"cae-dev" => "https://github.com/javidominguez/Calibre/releases/download/1.2/calibre-1.2.nvda-addon",
 	"clsel" => "https://github.com/tspivey/classicSelection/releases/download/v1.0/classicSelection-1.0.nvda-addon",
 	"ccd" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/8.8/clipContentsDesigner-8.8.nvda-addon",
-	"ccd-dev" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/9.0-dev/clipContentsDesigner-9.0-dev.nvda-addon",
+	"ccd-dev" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/8.8/clipContentsDesigner-8.8.nvda-addon",
 	"ccd-o" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/7.2/clipContentsDesigner-7.2.nvda-addon",
 	"ckbl" => "https://github.com/abdel792/sayCurrentKeyboardLanguage/releases/download/v19.02/sayCurrentKeyboardLanguage-19.02.nvda-addon",
 	"ckbl-dev" => "http://cyber25.free.fr/nvda-addons/sayCurrentKeyboardLanguage-19.02-dev.nvda-addon",
@@ -31,18 +31,11 @@ $addons = array(
 	"dw-dev" => "http://cyber25.free.fr/nvda-addons/dayOfTheWeek-19.02-dev.nvda-addon",
 	"dx" => "dropbox-4.3.nvda-addon",
 	"dx-dev" => "dropbox-4.3.nvda-addon",
-<<<<<<< HEAD
-	"earia" => "https://github.com/jmdaweb/enhancedAria/releases/download/v2.3/enhancedAria-2.3.nvda-addon",
-	"em" => "https://github.com/nvdaes/eMule/releases/download/3.18/eMule-3.18.nvda-addon",
-	"em-dev" => "https://github.com/nvdaes/eMule/releases/download/3.18/eMule-3.18.nvda-addon",
-	"emo" => "https://github.com/nvdaes/emoticons/releases/download/9.0/emoticons-9.0.nvda-addon",
-=======
 	"earia" => "https://github.com/jmdaweb/enhancedAria/releases/download/v2.5/enhancedAria-2.5.nvda-addon",
 	"earia-stable" => "https://github.com/jmdaweb/enhancedAria/releases/download/v2.5/enhancedAria-2.5.nvda-addon",
 	"em" => "https://github.com/nvdaes/eMule/releases/download/3.19/eMule-3.19.nvda-addon",
 	"em-dev" => "https://github.com/nvdaes/eMule/releases/download/3.19/eMule-3.19.nvda-addon",
 	"emo" => "https://github.com/nvdaes/emoticons/releases/download/9.1/emoticons-9.1.nvda-addon",
->>>>>>> 795713d3fc9cf049b6c5ceb248d95df3831eac63
 	"emo-dev" => "https://github.com/nvdaes/emoticons/releases/download/9.1/emoticons-9.1.nvda-addon",
 	"emo-o" => "https://github.com/nvdaes/emoticons/releases/download/6.5/emoticons-6.5.nvda-addon",
 	"etn" => "easyTableNavigator-1.3.nvda-addon",
