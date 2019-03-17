@@ -49,6 +49,7 @@ $addons = array(
 	"gl" => "https://github.com/nvdaaddons/nvdaaddons.github.io/wiki/guideLines",
 	"gwv" => "https://github.com/josephsl/goldWave/releases/download/19.02/goldwave-19.02.nvda-addon",
 	"gwv-dev" => "https://github.com/josephsl/goldWave/releases/download/19.02/goldwave-19.02.nvda-addon",
+	"imgdesc" => "https://storage.googleapis.com/www.screenreader.ai/addons/ImageDescriber-1.2.1.nvda-addon",
 	"it" => "instantTranslate-4.3-20190208-dev.nvda-addon",
 	"it-dev" => "instantTranslate-4.3-20190208-dev.nvda-addon",
 	"indentnav" => "https://github.com/mltony/nvda-indent-nav/releases/download/v1.6/IndentNav-1.6.nvda-addon",
