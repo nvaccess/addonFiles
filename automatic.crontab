@@ -64,6 +64,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 #x  8 for addons starting with h
 #x  9 for addons starting with i
+02  9 * * fri cd ${PathToMrRepo}/addons/ImageDescriber && chronic mr addon2svn && chronic mr svn2addon
 05  9 * * fri cd ${PathToMrRepo}/addons/IndentNav && chronic mr addon2svn && chronic mr svn2addon
 10  9 * * fri cd ${PathToMrRepo}/addons/inputLock && chronic mr addon2svn && chronic mr svn2addon
 #00  9 * * fri cd ${PathToMrRepo}/addons/instantTranslate && chronic mr addon2svn && chronic mr svn2addon
