@@ -115,7 +115,6 @@ $addons = array(
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/19.03/wintenApps-19.03.2.nvda-addon",
 	"w10-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
-	"wetp" => "http://www.nvda.it/files/plugin/weather_plus5.0.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
 
