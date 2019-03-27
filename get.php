@@ -69,6 +69,7 @@ $addons = array(
 	"objPad" => "https://github.com/josephsl/objPad/releases/download/19.02/objPad-19.02.nvda-addon",
 	"objPad-dev" => "https://github.com/josephsl/objPad/releases/download/19.02/objPad-19.02.nvda-addon",
 	"ocr" => "https://www.nvaccess.org/files/nvda-addons/ocr_0.20120529.01.nvda-addon",
+	"oid-dev" => "https://github.com/larry801/online_ocr/releases/download/0.11-dev/onlineOCR-0.11-dev.nvda-addon",
 	"outlookextended" => "https://github.com/CyrilleB79/outlookExtended/releases/download/V1.1/outlookExtended-1.1.nvda-addon",
 	"pckbbrl" => "https://www.nvaccess.org/files/nvda-addons/pcKbBrl-2014.1.nvda-addon",
 	"pm" => "https://github.com/nvdaes/placeMarkers/releases/download/12.5/placeMarkers-12.5.nvda-addon",
