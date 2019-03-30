@@ -92,7 +92,7 @@ $addons = array(
 	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/19.04/stationPlaylist-19.04.1.nvda-addon",
 	"spl-lts18" => "https://github.com/josephsl/stationPlaylist/releases/download/19.04/stationPlaylist-18.09.8-lts.nvda-addon",
 	"spl-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=spl-dev",
-	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/v2017.05.13/speechHistory.nvda-addon",
+	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/v2019.03.30/speechHistory.nvda-addon",
 	"st" => "systrayList-3.3.nvda-addon",
 	"st-dev" => "systrayList-3.3.nvda-addon",
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.02/switchSynth-1.02.nvda-addon",
