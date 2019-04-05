@@ -32,8 +32,8 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 #x  1 for addons starting with a
 00  1 * * fri cd ${PathToMrRepo}/addons/addonUpdater && chronic mr addon2svn && chronic mr svn2addon
-02  1 * * fri cd ${PathToMrRepo}/addons/audioChart && chronic mr addon2svn && chronic mr svn2addon
-05  1 * * fri cd ${PathToMrRepo}/addons/AudioThemes3D && chronic mr addon2svn && chronic mr svn2addon
+05  1 * * fri cd ${PathToMrRepo}/addons/audioChart && chronic mr addon2svn && chronic mr svn2addon
+10  1 * * fri cd ${PathToMrRepo}/addons/AudioThemes3D && chronic mr addon2svn && chronic mr svn2addon
 
 #x  2 for addons starting with b
 00  2 * * fri cd ${PathToMrRepo}/addons/bitChe && chronic mr addon2svn && chronic mr svn2addon
@@ -52,8 +52,8 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 #x  5 for addons starting with e
 00  5 * * fri cd ${PathToMrRepo}/addons/emoticons && chronic mr addon2svn && chronic mr svn2addon
 05  5 * * fri cd ${PathToMrRepo}/addons/eMule && chronic mr addon2svn && chronic mr svn2addon
-15  5 * * fri cd ${PathToMrRepo}/addons/enhancedAria && chronic mr addon2svn && chronic mr svn2addon
-10  5 * * fri cd ${PathToMrRepo}/addons/enhancedTouchGestures && chronic mr addon2svn && chronic mr svn2addon
+10  5 * * fri cd ${PathToMrRepo}/addons/enhancedAria && chronic mr addon2svn && chronic mr svn2addon
+15  5 * * fri cd ${PathToMrRepo}/addons/enhancedTouchGestures && chronic mr addon2svn && chronic mr svn2addon
 
 #x  6 for addons starting with f
 00  6 * * fri cd ${PathToMrRepo}/addons/focusHighlight && chronic mr addon2svn && chronic mr svn2addon
@@ -64,7 +64,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 #x  8 for addons starting with h
 #x  9 for addons starting with i
-02  9 * * fri cd ${PathToMrRepo}/addons/ImageDescriber && chronic mr addon2svn && chronic mr svn2addon
+00  9 * * fri cd ${PathToMrRepo}/addons/ImageDescriber && chronic mr addon2svn && chronic mr svn2addon
 05  9 * * fri cd ${PathToMrRepo}/addons/IndentNav && chronic mr addon2svn && chronic mr svn2addon
 10  9 * * fri cd ${PathToMrRepo}/addons/inputLock && chronic mr addon2svn && chronic mr svn2addon
 #00  9 * * fri cd ${PathToMrRepo}/addons/instantTranslate && chronic mr addon2svn && chronic mr svn2addon
@@ -96,22 +96,22 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 # x 19 for addons starting with s
 00 19 * * fri cd ${PathToMrRepo}/addons/sayCurrentKeyboardLanguage && chronic mr addon2svn && chronic mr svn2addon
-02 19 * * fri cd ${PathToMrRepo}/addons/SentenceNav && chronic mr addon2svn && chronic mr svn2addon
-05 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
-10 19 * * fri cd ${PathToMrRepo}/addons/systrayList && chronic mr addon2svn && chronic mr svn2addon
+05 19 * * fri cd ${PathToMrRepo}/addons/SentenceNav && chronic mr addon2svn && chronic mr svn2addon
+10 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
+15 19 * * fri cd ${PathToMrRepo}/addons/systrayList && chronic mr addon2svn && chronic mr svn2addon
 
 # x 20 for addons starting with t
 00  20 * * fri cd ${PathToMrRepo}/addons/teamViewer && chronic mr addon2svn && chronic mr svn2addon
-02  20 * * fri cd ${PathToMrRepo}/addons/textnav && chronic mr addon2svn && chronic mr svn2addon
-05  20 * * fri cd ${PathToMrRepo}/addons/toneMaster && chronic mr addon2svn && chronic mr svn2addon
-10  20 * * fri cd ${PathToMrRepo}/addons/toolbarsExplorer && chronic mr addon2svn && chronic mr svn2addon
+05  20 * * fri cd ${PathToMrRepo}/addons/textnav && chronic mr addon2svn && chronic mr svn2addon
+10  20 * * fri cd ${PathToMrRepo}/addons/toneMaster && chronic mr addon2svn && chronic mr svn2addon
+15  20 * * fri cd ${PathToMrRepo}/addons/toolbarsExplorer && chronic mr addon2svn && chronic mr svn2addon
 
 # x 21 for addons starting with u
 00  21 * * fri cd ${PathToMrRepo}/addons/unicodeBrailleInput && chronic mr addon2svn && chronic mr svn2addon
 
 # x 22 for addons starting with v or w
-05  22 * * fri cd ${PathToMrRepo}/addons/vlc && chronic mr addon2svn && chronic mr svn2addon
-15  22 * * fri cd ${PathToMrRepo}/addons/Weather_Plus && chronic mr addon2svn && chronic mr svn2addon
+00  22 * * fri cd ${PathToMrRepo}/addons/vlc && chronic mr addon2svn && chronic mr svn2addon
+05  22 * * fri cd ${PathToMrRepo}/addons/Weather_Plus && chronic mr addon2svn && chronic mr svn2addon
 10  22 * * fri cd ${PathToMrRepo}/addons/wintenApps && chronic mr addon2svn && chronic mr svn2addon
 
 # x 23 for addons starting with x y or z
