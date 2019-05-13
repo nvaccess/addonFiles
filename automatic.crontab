@@ -112,7 +112,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 # x 22 for addons starting with v or w
 00  22 * * fri cd ${PathToMrRepo}/addons/vlc && chronic mr addon2svn && chronic mr svn2addon
-# 05  22 * * fri cd ${PathToMrRepo}/addons/Weather_Plus && chronic mr addon2svn && chronic mr svn2addon
+05  22 * * fri cd ${PathToMrRepo}/addons/Weather_Plus && chronic mr addon2svn && chronic mr svn2addon
 10  22 * * fri cd ${PathToMrRepo}/addons/wintenApps && chronic mr addon2svn && chronic mr svn2addon
 15  22 * * fri cd ${PathToMrRepo}/addons/wordCount && chronic mr addon2svn && chronic mr svn2addon
 
