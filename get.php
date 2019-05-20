@@ -29,6 +29,7 @@ $addons = array(
 	"cs" => "https://github.com/sykesman/NVDAAddon-Clipspeak/releases/download/v1.0-Prerelease/clipspeak-1.0.nvda-addon",
 	"cont" => "https://github.com/derekriemer/consoleTimer/releases/download/v1.0/consoleTimer-1.0.nvda-addon",
 	"cua" => "controlUsageAssistant-2.4.nvda-addon",
+	"devtoolkit" => "developerToolkit-0.0.3.nvda-addon",
 	"dw" => "https://github.com/abdel792/dayOfTheWeek/releases/download/v19.03/dayOfTheWeek-19.03.nvda-addon",
 	"dw-dev" => "http://cyber25.free.fr/nvda-addons/dayOfTheWeek-19.03-dev.nvda-addon",
 	"dx" => "dropbox-4.3.nvda-addon",
