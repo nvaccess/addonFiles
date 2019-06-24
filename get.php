@@ -123,7 +123,7 @@ $addons = array(
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/19.07/wintenApps-19.07.nvda-addon",
 	"w10-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wc" => "https://github.com/ruifontes/wordCount/releases/download/1.4/wordCount-1.4.nvda-addon",
-	"wetp" => "http://www.nvda.it/files/plugin/weather_plus6.6.nvda-addon",
+	"wetp" => "http://www.nvda.it/files/plugin/weather_plus6.7.nvda-addon",
 	"wrd" => "word-0.2-dev.nvda-addon"
 );
 
