@@ -120,7 +120,7 @@ $addons = array(
 	"vlc-18" => "https://github.com/javidominguez/VLC/releases/download/2.9/VLC-2.9.nvda-addon",
 	"vlc-dev" => "https://github.com/javidominguez/VLC/releases/download/2.9/VLC-2.9.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
-	"w10" => "https://github.com/josephsl/wintenApps/releases/download/19.07/wintenApps-19.07.2.nvda-addon",
+	"w10" => "https://github.com/josephsl/wintenApps/releases/download/19.08/wintenApps-19.08.nvda-addon",
 	"w10-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wc" => "https://github.com/ruifontes/wordCount/releases/download/1.4/wordCount-1.4.nvda-addon",
 	"wetp" => "http://www.nvda.it/files/plugin/weather_plus6.8.nvda-addon",
