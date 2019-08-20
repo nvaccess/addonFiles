@@ -68,6 +68,7 @@ $addons = array(
 	"moz" => "https://github.com/javidominguez/MozillaScripts/releases/download/1.9/Mozilla-1.9.nvda-addon",
 	"mush" => "mushClient-1.3.nvda-addon",
 	"nb" => "noBeepsSpeechMode-2.4.nvda-addon",
+	"NotepadPlusPlus" => "https://files.derekriemer.com/NotepadPlusPlus-2019.08.0.nvda-addon",
 	"nvda3208" => "addonUpdater-19.08.2.nvda-addon",
 	"nvda7857" => "screenCurtain-20190726.nvda-addon",
 	"nvdaremote" => "https://nvdaremote.com/remote-2.2.nvda-addon",
