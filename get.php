@@ -33,6 +33,7 @@ $addons = array(
 	"cua" => "controlUsageAssistant-2.5.nvda-addon",
 	"cua-dev" => "controlUsageAssistant-20190813-dev.nvda-addon",
 	"devtoolkit" => "https://github.com/ajborka/nvda_developer_toolkit/releases/download/2019.1.2/developerToolkit-2019.1.2.nvda-addon",
+	"devtoolkit-dev" => "https://github.com/ajborka/nvda_developer_toolkit/releases/download/2020.1.0/developerToolkit-2020.1.0.nvda-addon",
 	"dw" => "https://github.com/abdel792/dayOfTheWeek/releases/download/v19.07/dayOfTheWeek-19.07.nvda-addon",
 	"dw-dev" => "http://cyber25.free.fr/nvda-addons/dayOfTheWeek-19.07-dev.nvda-addon",
 	"dx" => "dropbox-4.3.nvda-addon",
