@@ -48,6 +48,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 #x  4 for addons starting with d
 00  4 * * fri cd ${PathToMrRepo}/addons/dayOfTheWeek && chronic mr addon2svn && chronic mr svn2addon
+02  4 * * fri cd ${PathToMrRepo}/addons/debugHelper && chronic mr addon2svn && chronic mr svn2addon
 05  4 * * fri cd ${PathToMrRepo}/addons/dropbox && chronic mr addon2svn && chronic mr svn2addon
 
 #x  5 for addons starting with e
