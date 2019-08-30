@@ -32,6 +32,7 @@ $addons = array(
 	"cont" => "https://github.com/derekriemer/consoleTimer/releases/download/v1.0/consoleTimer-1.0.nvda-addon",
 	"cua" => "controlUsageAssistant-2.5.nvda-addon",
 	"cua-dev" => "controlUsageAssistant-20190813-dev.nvda-addon",
+	"debughelper" => "https://github.com/XLTechie/debugHelper/releases/download/v1.0.3/debugHelper-1.0.3.nvda-addon",
 	"devtoolkit" => "https://github.com/ajborka/nvda_developer_toolkit/releases/download/2019.1.2/developerToolkit-2019.1.2.nvda-addon",
 	"devtoolkit-dev" => "https://github.com/ajborka/nvda_developer_toolkit/releases/download/2020.1.0/developerToolkit-2020.1.0.nvda-addon",
 	"dw" => "https://github.com/abdel792/dayOfTheWeek/releases/download/v19.07/dayOfTheWeek-19.07.nvda-addon",
