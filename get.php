@@ -107,6 +107,7 @@ $addons = array(
 	"st-dev" => "systrayList-3.6.nvda-addon",
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.02/switchSynth-1.02.nvda-addon",
 	"spp" => "https://github.com/tspivey/speakPasswords/releases/download/v1.01/speakPasswords-1.01.nvda-addon",
+	"synthringsettingsselector" => "synthRingSettingsSelector-0.6.nvda-addon",
 	"tbx" => "toolbarsExplorer-1.3.nvda-addon",
 	"tbx-dev" => "toolbarsExplorer-1.4-20190825-dev.nvda-addon",
 	"textnav" => "https://github.com/mltony/nvda-text-nav/releases/download/v1.2/textnav-1.2.nvda-addon",
