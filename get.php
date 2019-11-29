@@ -106,7 +106,7 @@ $addons = array(
 	"spl-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=spl-dev",
 	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/v2019.03.30/speechHistory.nvda-addon",
 	"st" => "systrayList-3.7.nvda-addon",
-	"st-dev" => "systrayList-3.7.nvda-addon",
+	"st-dev" => "systrayList-4.0-20191129-dev.nvda-addon",
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.02/switchSynth-1.02.nvda-addon",
 	"spp" => "https://github.com/tspivey/speakPasswords/releases/download/v1.01/speakPasswords-1.01.nvda-addon",
 	"synthrings" => "synthRingSettingsSelector-0.6.nvda-addon",
