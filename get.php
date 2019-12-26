@@ -91,6 +91,7 @@ $addons = array(
 	"pckbbrl" => "https://github.com/nvdaes/pcKbBrl/releases/download/2019.1.1-dev/pcKbBrl-2019.1.1-dev.nvda-addon",
 	"pckbbrl-dev" => "https://github.com/nvdaes/pcKbBrl/releases/download/2019.1.1-dev/pcKbBrl-2019.1.1-dev.nvda-addon",
 	"pckbbrl-o" => "https://www.nvaccess.org/files/nvda-addons/pcKbBrl-2014.1.nvda-addon",
+	"perChk" => "https://github.com/lukaszgo1/percentageChecker/releases/download/V1.3/percentageChecker-1.3.nvda-addon",
 	"pm" => "https://github.com/nvdaes/placeMarkers/releases/download/13.0/placeMarkers-13.0.nvda-addon",
 	"pm-dev" => "https://github.com/nvdaes/placeMarkers/releases/download/14.2-dev/placeMarkers-14.2-dev.nvda-addon",
 	"pm-o" => "https://github.com/nvdaes/placeMarkers/releases/download/10.2/placeMarkers-10.2.nvda-addon",
