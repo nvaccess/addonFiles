@@ -145,7 +145,7 @@ $addons = array(
 	"w10-2019" => "https://github.com/josephsl/wintenApps/releases/download/19.11/wintenApps-19.11.5.nvda-addon",
 	"w10-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wc" => "https://github.com/ruifontes/wordCount/releases/download/1.4/wordCount-1.4.nvda-addon",
-	"wetp" => "http://www.nvda.it/files/plugin/weather_plus7.3.nvda-addon",
+	"wetp" => "http://www.nvda.it/files/plugin/weather_plus7.4.nvda-addon",
 );
 
 If (isset($_GET['file'])) {
