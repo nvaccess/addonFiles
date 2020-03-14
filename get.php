@@ -74,6 +74,7 @@ $addons = array(
 	"nvda3208" => "https://github.com/josephsl/addonUpdater/releases/download/20.03/addonUpdater-20.03.nvda-addon",
 	"nvda7857" => "screenCurtain-20191130.nvda-addon",
 	"nvdaremote" => "https://nvdaremote.com/remote-2.3.nvda-addon",
+	"nvsp" => "https://www.nvaccess.org/files/nvda-addons/nvSpeechPlayer_2020.1.nvda-addon",
 	"objLoc" => "https://github.com/josephsl/objLocationTones/releases/download/20.01/objLocTones-20.01.nvda-addon",
 	"objPad" => "https://github.com/josephsl/objPad/releases/download/20.01/objPad-20.01.nvda-addon",
 	"objPad-dev" => "https://github.com/josephsl/objPad/releases/download/20.01/objPad-20.01.nvda-addon",
