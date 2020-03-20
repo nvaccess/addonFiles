@@ -133,7 +133,7 @@ $addons = array(
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/20.03/wintenApps-20.03.1.nvda-addon",
 	"w10-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
-	"wc" => "https://github.com/ruifontes/wordCount/releases/download/1.4/wordCount-1.4.nvda-addon",
+	"wc" => "https://github.com/ruifontes/wordCount/releases/download/1.5/wordCount-1.5.nvda-addon",
 	"wetp" => "http://www.nvda.it/files/plugin/weather_plus7.4.nvda-addon",
 	"winmag" => "https://github.com/CyrilleB79/winMag/releases/download/V1.0-dev-20200225/winMag-1.0-dev-20200225.nvda-addon",
 	"winmag-dev" => "https://github.com/CyrilleB79/winMag/releases/download/V1.0-dev-20200225/winMag-1.0-dev-20200225.nvda-addon",
