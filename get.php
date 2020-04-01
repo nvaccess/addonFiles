@@ -90,6 +90,7 @@ $addons = array(
 	"pm" => "https://github.com/nvdaes/placeMarkers/releases/download/14.0/placeMarkers-14.0.nvda-addon",
 	"pm-dev" => "https://github.com/nvdaes/placeMarkers/releases/download/14.3-dev/placeMarkers-14.3-dev.nvda-addon",
 	"pm-o" => "https://github.com/nvdaes/placeMarkers/releases/download/10.2/placeMarkers-10.2.nvda-addon",
+	"phoneticpunc" => "phoneticPunctuation-1.0.nvda-addon",
 	"qb-dev" => "https://www.nvaccess.org/files/nvda-addons/quickBooks2014-2014.4.7.nvda-addon",
 	"rccp" => "https://github.com/tuukkao/nvda-reviewCursorCopier/releases/download/1.2/reviewCursorCopier-1.2.nvda-addon",
 	"rccp-dev" => "https://github.com/tuukkao/nvda-reviewCursorCopier/releases/download/1.2/reviewCursorCopier-1.2.nvda-addon",
