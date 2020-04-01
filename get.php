@@ -121,6 +121,7 @@ $addons = array(
 	"tmast" => "https://github.com/nvdaaddons/toneMaster/releases/download/v1.3/toneMaster-1.3.nvda-addon",
 	"tod-dev" => "https://files.derekriemer.com/tipOfTheDay-dev.nvda-addon",
 	"tod" => "https://files.derekriemer.com/tipOfTheDay.nvda-addon",
+	"tony" => "tonysEnhancements-1.4.nvda-addon",
 	"trainingkbdcmd" => "https://github.com/ibrahim-s/trainingNvdaCommands/releases/download/v1.1/trainingKeyboardCommands-1.1-dev.nvda-addon",
 	"tv" => "teamViewer-2.3.nvda-addon",
 	"tv-dev" => "teamViewer-3.0-dev.nvda-addon",
