@@ -126,6 +126,7 @@ $addons = array(
 	"tv" => "teamViewer-2.3.nvda-addon",
 	"tv-dev" => "teamViewer-3.0-dev.nvda-addon",
 	"txtinfo" => "https://github.com/cartertemm/text_information/releases/download/1.0/textInformation-1.0.nvda-addon",
+	"tz" => "https://github.com/munawarb/NVDA-Time-Zoner/releases/download/v1.03/timezone-1.03.nvda-addon",
 	"ubi" => "https://github.com/leonardder/unicodebrailleinput/releases/download/3.1/unicodeBrailleInput-3.1.nvda-addon",
 	"ubi-dev" => "https://github.com/leonardder/unicodebrailleinput/releases/download/3.1/unicodeBrailleInput-3.1.nvda-addon",
 	"VR" => "virtualRevision-3.0.nvda-addon",
