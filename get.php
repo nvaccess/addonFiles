@@ -109,7 +109,7 @@ $addons = array(
 	"spie" => "https://www.nvaccess.org/files/nvda-addons/speechPlayerInEspeak-0.4.nvda-addon",
 	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/20.04/stationPlaylist-20.04.1.nvda-addon",
 	"spl-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=spl-dev",
-	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/2020.1/speechHistory-2020.1.nvda-addon",
+	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/2020.2/speechHistory-2020.2.nvda-addon",
 	"st" => "systrayList-4.0.nvda-addon",
 	"st-dev" => "systrayList-4.0.nvda-addon",
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.03/switchSynth-1.03.nvda-addon",
