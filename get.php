@@ -108,7 +108,7 @@ $addons = array(
 	"rsy-o" => "https://github.com/nvdaes/reportSymbols/releases/download/3.6/reportSymbols-3.6.nvda-addon",
 	"sentencenav" => "SentenceNav-2.7.nvda-addon",
 	"spie" => "https://www.nvaccess.org/files/nvda-addons/speechPlayerInEspeak-0.4.nvda-addon",
-	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/20.04/stationPlaylist-20.04.1.nvda-addon",
+	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/20.05/stationPlaylist-20.05.nvda-addon",
 	"spl-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=spl-dev",
 	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/2020.2/speechHistory-2020.2.nvda-addon",
 	"st" => "systrayList-4.0.nvda-addon",
