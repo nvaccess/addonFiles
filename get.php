@@ -102,7 +102,6 @@ $addons = array(
 	"rm-dev" => "https://github.com/josephsl/resourceMonitor/releases/download/20.04/resourceMonitor-20.04.nvda-addon",
 	"rp" => "https://github.com/nvdaes/reportPasswords/releases/download/1.0/reportPasswords-1.0.nvda-addon",
 	"rp-dev" => "https://github.com/nvdaes/reportPasswords/releases/download/1.6-dev/reportPasswords-1.6-dev.nvda-addon",
-	"rs-dev" => "rapidSettings-2.0-dev.nvda-addon",
 	"rsy" => "https://github.com/nvdaes/reportSymbols/releases/download/5.0/reportSymbols-5.0.nvda-addon",
 	"rsy-dev" => "https://github.com/nvdaes/reportSymbols/releases/download/5.1-dev/reportSymbols-5.1-dev.nvda-addon",
 	"rsy-o" => "https://github.com/nvdaes/reportSymbols/releases/download/3.6/reportSymbols-3.6.nvda-addon",
