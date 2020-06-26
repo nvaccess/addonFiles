@@ -102,6 +102,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 00 19 * * fri cd ${PathToMrRepo}/addons/sayCurrentKeyboardLanguage && chronic mr addon2svn && chronic mr svn2addon
 05 19 * * fri cd ${PathToMrRepo}/addons/SentenceNav && chronic mr addon2svn && chronic mr svn2addon
 10 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
+10 20 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
 17 19 * * fri cd ${PathToMrRepo}/addons/synthRingSettingsSelector && chronic mr addon2svn && chronic mr svn2addon
 15 19 * * fri cd ${PathToMrRepo}/addons/systrayList && chronic mr addon2svn && chronic mr svn2addon
 
