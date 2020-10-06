@@ -69,7 +69,7 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 #x  9 for addons starting with i
 00  9 * * fri cd ${PathToMrRepo}/addons/IndentNav && chronic mr addon2svn && chronic mr svn2addon
 05  9 * * fri cd ${PathToMrRepo}/addons/inputLock && chronic mr addon2svn && chronic mr svn2addon
-#00  9 * * fri cd ${PathToMrRepo}/addons/instantTranslate && chronic mr addon2svn && chronic mr svn2addon
+10  9 * * fri cd ${PathToMrRepo}/addons/instantTranslate && chronic mr addon2svn && chronic mr svn2addon
 
 #x 10 for addons starting with j
 #x 11 for addons starting with k
@@ -99,9 +99,9 @@ poStatusHtml=/home/nvdal10n/ikiwiki/publish/poStatus.html
 
 # x 19 for addons starting with s
 00 19 * * fri cd ${PathToMrRepo}/addons/sayCurrentKeyboardLanguage && chronic mr addon2svn && chronic mr svn2addon
-05 19 * * fri cd ${PathToMrRepo}/addons/SentenceNav && chronic mr addon2svn && chronic mr svn2addon
-10 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
-17 19 * * fri cd ${PathToMrRepo}/addons/synthRingSettingsSelector && chronic mr addon2svn && chronic mr svn2addon
+02 19 * * fri cd ${PathToMrRepo}/addons/SentenceNav && chronic mr addon2svn && chronic mr svn2addon
+05 19 * * fri cd ${PathToMrRepo}/addons/stationPlaylist && chronic mr addon2svn && chronic mr svn2addon
+10 19 * * fri cd ${PathToMrRepo}/addons/synthRingSettingsSelector && chronic mr addon2svn && chronic mr svn2addon
 15 19 * * fri cd ${PathToMrRepo}/addons/systrayList && chronic mr addon2svn && chronic mr svn2addon
 
 # x 20 for addons starting with t
