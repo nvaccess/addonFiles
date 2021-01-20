@@ -11,7 +11,7 @@ $addons = array(
 	"bgt" => "https://github.com/sykesman/NVDA-BGT/releases/download/1.0-dev/bgt_lullaby-1.0-dev.nvda-addon",
 	"brlext" => "https://andreabc.net/projects/NVDA_addons/BrailleExtender/latest",
 	"brlext-dev" => "https://andreabc.net/projects/NVDA_addons/BrailleExtender/latest?channel=dev",
-	"browsernav" => "browsernav-1.9.nvda-addon",
+	"browsernav" => "https://github.com/mltony/nvda-browser-nav/releases/download/v1.12/browsernav-1.12.nvda-addon",
 	"btaudio" => "bluetoothaudio-1.1.nvda-addon",
 	"cac" => "https://github.com/hkatic/clock/releases/download/v19.12/clock-19.12.nvda-addon",
 	"cac-dev" => "https://github.com/hkatic/clock/releases/download/v20.12-dev/clock-20.12-dev.nvda-addon",
