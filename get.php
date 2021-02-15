@@ -144,6 +144,7 @@ $addons = array(
 	"wetp" => "http://www.nvda.it/files/plugin/weather_plus7.6.nvda-addon",
 	"winmag" => "https://github.com/CyrilleB79/winMag/releases/download/V1.0-dev-20200306/winMag-1.0-dev-20200306.nvda-addon",
 	"winmag-dev" => "https://github.com/CyrilleB79/winMag/releases/download/V1.0-dev-20200306/winMag-1.0-dev-20200306.nvda-addon",
+	"wordnav" => "https://github.com/mltony/nvda-word-nav/releases/download/v1.2/wordNav-1.2.nvda-addon",
 	"zoom" => "zoomEnhancements-1.0.nvda-addon",
 );
 
