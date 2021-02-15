@@ -30,6 +30,7 @@ $addons = array(
 	"crh-dev" => "https://files.derekriemer.com/crashHero-dev.nvda-addon",
 	"cs" => "clipspeak-1.1.nvda-addon",
 	"cont" => "https://github.com/derekriemer/consoleTimer/releases/download/v1.0/consoleTimer-1.0.nvda-addon",
+	"consoletoolkit" => "https://github.com/mltony/nvda-console-toolkit/releases/download/v1.0/consoleToolkit-1.0.nvda-addon",
 	"cua" => "https://github.com/josephsl/controlUsageAssistant/releases/download/20.10/controlUsageAssistant-20.10.nvda-addon",
 	"cua-dev" => "https://github.com/josephsl/controlUsageAssistant/releases/download/20.10/controlUsageAssistant-20.10.nvda-addon",
 	"debughelper" => "https://github.com/XLTechie/debugHelper/releases/download/v1.0.3/debugHelper-1.0.3.nvda-addon",
