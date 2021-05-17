@@ -133,6 +133,7 @@ $addons = array(
 	"tz" => "https://github.com/munawarb/NVDA-Time-Zoner/releases/download/v1.04/timezone-1.04.nvda-addon",
 	"ubi" => "https://github.com/leonardder/unicodebrailleinput/releases/download/3.1/unicodeBrailleInput-3.1.nvda-addon",
 	"ubi-dev" => "https://github.com/leonardder/unicodebrailleinput/releases/download/3.1/unicodeBrailleInput-3.1.nvda-addon",
+	"updchannelselect" => "https://github.com/nvda-es/updateChannel/releases/download/v1.0.2/updateChannel-1.0.2.nvda-addon",
 	"VR" => "virtualRevision-3.0.nvda-addon",
 	"vlc" => "https://github.com/javidominguez/VLC/releases/download/2.10/VLC-2.10.nvda-addon",
 	"vlc-18" => "https://github.com/javidominguez/VLC/releases/download/2.10/VLC-2.10.nvda-addon",
