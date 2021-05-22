@@ -57,7 +57,6 @@ $addons = array(
 	"gc-dev" => "goldenCursor-4.0.nvda-addon",
 	"gl" => "https://github.com/nvdaaddons/nvdaaddons.github.io/wiki/guideLines",
 	"gwv" => "https://github.com/josephsl/goldWave/releases/download/21.06/goldwave-21.06.nvda-addon",
-	"gwv-dev" => "https://github.com/josephsl/goldWave/releases/download/20.06/goldwave-20.10.nvda-addon",
 	"imgdesc" => "https://storage.googleapis.com/www.screenreader.ai/addons/ImageDescriber-1.2.1.nvda-addon",
 	"it" => "instantTranslate-4.4.1.nvda-addon",
 	"it-dev" => "instantTranslate-4.4.1.nvda-addon",
