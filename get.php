@@ -23,6 +23,7 @@ $addons = array(
 	"ccd" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/13.3/clipContentsDesigner-13.3.nvda-addon",
 	"ccd-dev" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/13.3/clipContentsDesigner-13.3.nvda-addon",
 	"ccd-o" => "https://github.com/nvdaes/clipContentsDesigner/releases/download/7.2/clipContentsDesigner-7.2.nvda-addon",
+	"cig" => "https://github.com/grisov/checkGestures/releases/download/latest/checkGestures-1.0.nvda-addon",
 	"ckbl" => "https://github.com/abdel792/sayCurrentKeyboardLanguage/releases/download/v19.12/sayCurrentKeyboardLanguage-19.12.nvda-addon",
 	"ckbl-dev" => "https://github.com/abdel792/sayCurrentKeyboardLanguage/releases/download/v19.12/sayCurrentKeyboardLanguage-19.12.nvda-addon",
 	"cr" => "columnsReview-3.0-20200511-dev.nvda-addon",
