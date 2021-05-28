@@ -82,7 +82,6 @@ $addons = array(
 	"nvsp" => "https://www.nvaccess.org/files/nvda-addons/nvSpeechPlayer_2020.1.nvda-addon",
 	"objLoc" => "https://github.com/josephsl/objLocationTones/releases/download/20.12/objLocTones-20.12.nvda-addon",
 	"objPad" => "https://github.com/josephsl/objPad/releases/download/21.06/objPad-21.06.nvda-addon",
-	"objPad-dev" => "https://github.com/josephsl/objPad/releases/download/21.04/objPad-21.04.nvda-addon",
 	"ocr" => "https://github.com/lukaszgo1/nvda-ocr/releases/download/v2.1/ocr-2.1.nvda-addon",
 	"oid-dev" => "https://github.com/larry801/online_ocr/releases/download/0.17-dev/onlineOCR-0.17-dev.nvda-addon",
 	"outlookextended" => "https://github.com/CyrilleB79/outlookExtended/releases/download/V1.6/outlookExtended-1.6.nvda-addon",
