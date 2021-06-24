@@ -146,6 +146,7 @@ $addons = array(
 	"winwizard" => "https://github.com/lukaszgo1/winWizard/releases/download/V5.0.3/winWizard-5.0.3.nvda-addon",
 	"wordnav" => "https://github.com/mltony/nvda-word-nav/releases/download/v1.2/wordNav-1.2.nvda-addon",
 	"zoom" => "zoomEnhancements-1.0.nvda-addon",
+	"directlink" => "https://github.com/fawazar94/DirectLink/releases/download/1.0/directLink-1.0.nvda-addon",
 );
 
 If (isset($_GET['file'])) {
