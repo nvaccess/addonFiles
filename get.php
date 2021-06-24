@@ -37,6 +37,7 @@ $addons = array(
 	"debughelper" => "https://github.com/XLTechie/devHelper/releases/download/v1.4/devHelper-1.4.nvda-addon",
 	"devtoolkit" => "https://github.com/ajborka/nvda_developer_toolkit/releases/download/20.04/developerToolkit-20.04.nvda-addon",
 	"devtoolkit-dev" => "https://github.com/ajborka/nvda_developer_toolkit/releases/download/20.04/developerToolkit-20.04.nvda-addon",
+	"directlink" => "https://github.com/fawazar94/DirectLink/releases/download/1.0/directLink-1.0.nvda-addon",
 	"dw" => "https://github.com/abdel792/dayOfTheWeek/releases/download/v19.12/dayOfTheWeek-19.12.nvda-addon",
 	"dw-dev" => "https://github.com/abdel792/dayOfTheWeek/releases/download/v19.12/dayOfTheWeek-19.12.nvda-addon",
 	"dx" => "https://github.com/Nardol/dropbox/releases/download/v4.6/dropbox-4.6.nvda-addon",
@@ -146,7 +147,6 @@ $addons = array(
 	"winwizard" => "https://github.com/lukaszgo1/winWizard/releases/download/V5.0.3/winWizard-5.0.3.nvda-addon",
 	"wordnav" => "https://github.com/mltony/nvda-word-nav/releases/download/v1.2/wordNav-1.2.nvda-addon",
 	"zoom" => "zoomEnhancements-1.0.nvda-addon",
-	"directlink" => "https://github.com/fawazar94/DirectLink/releases/download/1.0/directLink-1.0.nvda-addon",
 );
 
 If (isset($_GET['file'])) {
