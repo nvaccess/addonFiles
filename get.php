@@ -52,6 +52,7 @@ $addons = array(
 	"etn-dev" => "easyTableNavigator-2.1.1.nvda-addon",
 	"ets" => "https://github.com/josephsl/enhancedTouchGestures/releases/download/21.06/enhancedTouchGestures-21.06.nvda-addon",
 	"ets-dev" => "https://github.com/josephsl/enhancedTouchGestures/releases/download/21.06/enhancedTouchGestures-21.06.nvda-addon",
+	"evttracker" => "https://github.com/josephsl/evtTracker/releases/download/21.07/evtTracker-21.07.nvda-addon",
 	"ew" => "https://github.com/josephsl/extendedWinamp/releases/download/2.0/extendedWinamp-2.0.nvda-addon",
 	"fh" => "https://github.com/nvdajp/focusHighlight/releases/download/6.3/focusHighlight-6.3.nvda-addon",
 	"fh-dev" => "https://github.com/nvdajp/focusHighlight/releases/download/6.2/focusHighlight-6.2.nvda-addon",
