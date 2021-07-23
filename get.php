@@ -112,7 +112,6 @@ $addons = array(
 	"sentencenav" => "https://github.com/mltony/nvda-sentence-nav/releases/download/v2.11/SentenceNav-2.11.nvda-addon",
 	"spie" => "https://www.nvaccess.org/files/nvda-addons/speechPlayerInEspeak-0.4.nvda-addon",
 	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/21.08/stationPlaylist-21.08.nvda-addon",
-	"spl-dev" => "https://github.com/josephsl/stationPlaylist/releases/download/21.06/stationPlaylist-21.06.nvda-addon",
 	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/2021.1/speechHistory-2021.1.nvda-addon",
 	"st" => "https://github.com/ruifontes/systrayList/releases/download/21.06/systrayList-21.06.nvda-addon",
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.04/switchSynth-1.04.nvda-addon",
