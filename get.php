@@ -73,6 +73,7 @@ $addons = array(
 	"mirc" => "mirc-1.6.nvda-addon",
 	"moz" => "https://github.com/javidominguez/MozillaScripts/releases/download/1.14/Mozilla-1.14.nvda-addon",
 	"mush" => "mushClient-1.3.nvda-addon",
+	"nb" => "https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v5.0/noBeepsSpeechMode-5.0.nvda-addon",
 	"nb-old" => "https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v4.0/noBeepsSpeechMode-4.0.nvda-addon",
 	"NotepadPlusPlus" => "https://files.derekriemer.com/NotepadPlusPlus-2019.09.0.nvda-addon",
 	"numpadNav" => "https://github.com/opensourcesys/numpadNavMode/releases/download/1.4/numpadNavMode-1.4.nvda-addon",
