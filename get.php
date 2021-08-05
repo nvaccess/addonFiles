@@ -60,6 +60,7 @@ $addons = array(
 	"gc-dev" => "https://github.com/josephsl/goldenCursor/releases/download/5.0/goldenCursor-5.0.nvda-addon",
 	"gl" => "https://github.com/nvdaaddons/nvdaaddons.github.io/wiki/guideLines",
 	"gwv" => "https://github.com/josephsl/goldWave/releases/download/21.08/goldwave-21.08.nvda-addon",
+	"ibir" => "https://github.com/SamKacer/IgnoreBlanksIndentation/releases/download/v0.1/ignoreBlanksIndentationReporting-0.1.nvda-addon",
 	"imgdesc" => "https://storage.googleapis.com/www.screenreader.ai/addons/ImageDescriber-1.2.1.nvda-addon",
 	"it" => "https://github.com/beqabeqa473/instantTranslate/releases/download/v4.4.2/instantTranslate-4.4.2.nvda-addon",
 	"it-dev" => "https://github.com/beqabeqa473/instantTranslate/releases/download/v4.4.2/instantTranslate-4.4.2.nvda-addon",
