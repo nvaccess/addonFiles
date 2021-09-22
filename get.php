@@ -1,6 +1,6 @@
 <?php
 $addons = array(
-	"access8math" => "https://github.com/tsengwoody/Access8Math/releases/download/v3.0/Access8Math-3.0.nvda-addon",
+	"access8math" => "https://github.com/tsengwoody/Access8Math/releases/download/v3.1/Access8Math-3.1.nvda-addon",
 	"addonshelp" => "https://github.com/ruifontes/addonsHelp/releases/download/21.05/addonsHelp-21.05.nvda-addon",
 	"ath" => "https://github.com/mush42/Audio-Themes-NVDA-Add-on/releases/download/v5.1/AudioThemes3D-5.1.nvda-addon",
 	"ath-dev" => "https://github.com/mush42/Audio-Themes-NVDA-Add-on/releases/download/v5.1/AudioThemes3D-5.1.nvda-addon",
