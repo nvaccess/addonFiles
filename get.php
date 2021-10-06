@@ -151,6 +151,7 @@ $addons = array(
 	"winwizard" => "https://github.com/lukaszgo1/winWizard/releases/download/V5.0.3/winWizard-5.0.3.nvda-addon",
 	"wordnav" => "https://github.com/mltony/nvda-word-nav/releases/download/v1.4/wordNav-1.4.nvda-addon",
 	"zoom" => "zoomEnhancements-1.1.1.nvda-addon",
+	"quickNotetaker" => "quickNotetaker-1.0.nvda-addon",
 );
 
 If (isset($_GET['file'])) {
