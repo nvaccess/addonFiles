@@ -99,6 +99,7 @@ $addons = array(
 	"phoneticpunc" => "https://github.com/mltony/nvda-phonetic-punctuation/releases/download/v1.3/phoneticPunctuation-1.3.nvda-addon",
 	"qb-dev" => "https://www.nvaccess.org/files/nvda-addons/quickBooks2014-2014.4.7.nvda-addon",
 	"quickdictionary" => "https://github.com/grisov/quickDictionary/releases/download/latest/quickDictionary-2.1.4.nvda-addon",
+	"quickNotetaker" => "https://github.com/mohammad-suliman/quickNotetaker/releases/download/v1.0/quickNotetaker-1.0.nvda-addon",
 	"rccp" => "https://github.com/tuukkao/nvda-reviewCursorCopier/releases/download/1.3/reviewCursorCopier-1.3.nvda-addon",
 	"rccp-dev" => "https://github.com/tuukkao/nvda-reviewCursorCopier/releases/download/1.3/reviewCursorCopier-1.3.nvda-addon",
 	"rf" => "https://github.com/nvdaes/readFeeds/releases/download/12.0/readFeeds-12.0.nvda-addon",
@@ -151,7 +152,6 @@ $addons = array(
 	"winwizard" => "https://github.com/lukaszgo1/winWizard/releases/download/V5.0.3/winWizard-5.0.3.nvda-addon",
 	"wordnav" => "https://github.com/mltony/nvda-word-nav/releases/download/v1.4/wordNav-1.4.nvda-addon",
 	"zoom" => "zoomEnhancements-1.1.1.nvda-addon",
-	"quickNotetaker" => "quickNotetaker-1.0.nvda-addon",
 );
 
 If (isset($_GET['file'])) {
