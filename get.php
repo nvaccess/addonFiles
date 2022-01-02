@@ -12,7 +12,7 @@ $addons = array(
 	"brlext" => "https://andreabc.net/projects/NVDA_addons/BrailleExtender/latest",
 	"brlext-dev" => "https://andreabc.net/projects/NVDA_addons/BrailleExtender/latest?channel=dev",
 	"browsernav" => "https://github.com/mltony/nvda-browser-nav/releases/download/v1.15.1/browsernav-1.15.nvda-addon",
-	"btaudio" => "https://github.com/mltony/nvda-bluetooth-audio/releases/download/v1.3/bluetoothaudio-1.3.nvda-addon",
+	"btaudio" => "https://github.com/mltony/nvda-bluetooth-audio/releases/download/v1.4/bluetoothaudio-1.4.nvda-addon",
 	"cac" => "https://github.com/hkatic/clock/releases/download/v21.11/clock-21.11.nvda-addon",
 	"cac-dev" => "https://github.com/hkatic/clock/releases/download/v21.11/clock-21.11.nvda-addon",
 	"cae" => "https://github.com/javidominguez/Calibre/releases/download/2.5/calibre-2.5.nvda-addon",
