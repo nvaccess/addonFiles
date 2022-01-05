@@ -73,6 +73,7 @@ $addons = array(
 	"mp3dc-dev" => "https://github.com/abdel792/mp3DirectCut/releases/download/v21.11-dev/mp3DirectCut-21.11-dev.nvda-addon",
 	"mirc" => "mirc-1.6.nvda-addon",
 	"moz" => "https://github.com/javidominguez/MozillaScripts/releases/download/1.15/Mozilla-1.15.nvda-addon",
+	"msedge" => "https://github.com/beqabeqa473/MSEdgeDiscardAnnouncements/releases/download/v0.4/MSEdgeDiscardAnnouncements-v0.4.nvda-addon",
 	"mush" => "mushClient-1.3.nvda-addon",
 	"nb" => "https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v5.0/noBeepsSpeechMode-5.0.nvda-addon",
 	"nb-old" => "https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v4.0/noBeepsSpeechMode-4.0.nvda-addon",
