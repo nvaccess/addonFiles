@@ -115,6 +115,7 @@ $addons = array(
 	"rsy-o" => "https://github.com/nvdaes/reportSymbols/releases/download/3.6/reportSymbols-3.6.nvda-addon",
 	"searchwith" => "https://github.com/ibrahim-s/searchWith/releases/download/v1.9/searchWith-1.9.nvda-addon",
 	"sentencenav" => "https://github.com/mltony/nvda-sentence-nav/releases/download/v2.11/SentenceNav-2.11.nvda-addon",
+	"soundsplitter" => "https://github.com/josephsl/soundSplitter/releases/download/22.02/soundSplitter-22.02.nvda-addon",
 	"spie" => "https://www.nvaccess.org/files/nvda-addons/speechPlayerInEspeak-0.4.nvda-addon",
 	"spl" => "https://github.com/josephsl/stationPlaylist/releases/download/22.01/stationPlaylist-22.01.nvda-addon",
 	"spnav" => "https://github.com/Nardol/SayProductNameAndVersion/releases/download/2021.07/sayProductNameAndVersion-2021.07.nvda-addon",
