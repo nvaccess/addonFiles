@@ -11,7 +11,7 @@ To include a new add-on:
 2. Fork this repo (nvaccess/addonFiles) into your own GitHub account.
 3. Create a new branch in your forked version of addonFiles.
 4. In your new branch, edit the get.php file, as described below.
-5. Push the new branch to your fork, and issue a pull request to merge it into this repository.
+5. Push the new branch to your fork, and issue a pull request to merge it into this repository. When creating the pull request, be sure to follow the instructions that appear in the edit field on GitHub.
 
 Your pull request will be reviewed, and if approved, will be merged, thus making your changes to get.php part of the official add-ons website as described below.
 
