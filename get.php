@@ -147,7 +147,7 @@ $addons = array(
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/22.02/wintenApps-22.02.nvda-addon",
 	"w10-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wc" => "https://github.com/ruifontes/wordCount/releases/download/21.05/wordCount-21.05.nvda-addon",
-	"wetp" => "https://www.nvda.it/files/plugin/weather_plus8.7.nvda-addon",
+	"wetp" => "https://www.nvda.it/files/plugin/weather_plus8.8.nvda-addon",
 	"winmag" => "https://github.com/CyrilleB79/winMag/releases/download/V1.1/winMag-1.1.nvda-addon",
 	"winmag-dev" => "https://github.com/CyrilleB79/winMag/releases/download/V1.1/winMag-1.1.nvda-addon",
 	"winwizard" => "https://github.com/lukaszgo1/winWizard/releases/download/V5.0.3/winWizard-5.0.3.nvda-addon",
