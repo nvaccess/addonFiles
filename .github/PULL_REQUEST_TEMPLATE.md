@@ -1,17 +1,35 @@
-<!-- Please read and fill in the following template.
+<!-- Please read and fill in the template following this comment.
 
-Go to lines starting with a dash (-) and place the required information for each item after the colon followed by space.
+Example:
+
+### Release information (place the required information for each item after the colon followed by space)
+
+- Name: Add-on Updater
+- Author: Joseph Lee
+- Repo: https://github.com/josephsl/addonUpdater
+- Version: 21.07, 20210815-dev
+- Update channel: stable and dev
+- NVDA compatibility: 2021.1 and beyond
+
+### Changelog (mention changes in separate lines starting with dash space)
+
+- updated translations.
+
+### Additional information
+
+Other info you consider important.
 -->
 
 ### Release information
-- Name (Example, Add-on Updater): 
-- Author (example, Your Name): 
-- Repo (example, https://github.com/yourname/addonName): 
-- Version (example, 21.07): 
-- Update channel (example, stable, dev or stable and dev): 
-- NVDA compatibility (example, 2021.1 and beyond): 
 
-### Changelog (mention changes in separate lines starting with dash space)
+- Name:
+- Author:
+- Repo:
+- Version:
+- Update channel:
+- NVDA compatibility:
+
+### Changelog
 
 ### Additional information
 
