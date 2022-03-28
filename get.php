@@ -2,6 +2,7 @@
 $addons = array(
 	"access8math" => "https://github.com/tsengwoody/Access8Math/releases/download/v3.2/Access8Math-3.2.nvda-addon",
 	"addonshelp" => "https://github.com/ruifontes/addonsHelp/releases/download/2022.03/addonsHelp-2022.03.nvda-addon",
+	"appdict" => "https://github.com/ruifontes/applicationDictionary-/releases/download/2022.03.26/applicationDictionary-2022.03.26.nvda-addon",
 	"ath" => "https://github.com/mush42/Audio-Themes-NVDA-Add-on/releases/download/v5.1/AudioThemes3D-5.1.nvda-addon",
 	"ath-dev" => "https://github.com/mush42/Audio-Themes-NVDA-Add-on/releases/download/v5.1/AudioThemes3D-5.1.nvda-addon",
 	"audiochart" => "https://github.com/mltony/nvda-audio-chart/releases/download/v1.3/audioChart-1.3.nvda-addon",
