@@ -26,6 +26,7 @@ $addons = array(
 	"cig" => "https://github.com/grisov/checkGestures/releases/download/latest/checkGestures-1.0.2.nvda-addon",
 	"ckbl" => "https://github.com/abdel792/sayCurrentKeyboardLanguage/releases/download/v21.11/sayCurrentKeyboardLanguage-21.11.nvda-addon",
 	"ckbl-dev" => "https://github.com/abdel792/sayCurrentKeyboardLanguage/releases/download/v21.11-dev/sayCurrentKeyboardLanguage-21.11-dev.nvda-addon",
++	"cls" => "https://github.com/ruifontes/clipspeak/releases/download/2022.04/clipspeak-2022.04.nvda-addon",
 	"cr" => "https://github.com/ABuffEr/columnsReview/releases/download/v3.0/columnsReview-3.0.nvda-addon",
 	"cr-dev" => "https://github.com/ABuffEr/columnsReview/releases/download/b20211024/columnsReview-20211024-dev.nvda-addon",
 	"crh-dev" => "https://files.derekriemer.com/crashHero-dev.nvda-addon",
