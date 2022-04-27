@@ -152,7 +152,7 @@ $addons = array(
 	"winmag" => "https://github.com/CyrilleB79/winMag/releases/download/V1.1/winMag-1.1.nvda-addon",
 	"winmag-dev" => "https://github.com/CyrilleB79/winMag/releases/download/V1.1/winMag-1.1.nvda-addon",
 	"winwizard" => "https://github.com/lukaszgo1/winWizard/releases/download/V5.0.3/winWizard-5.0.3.nvda-addon",
-	"wordnav" => "https://github.com/mltony/nvda-word-nav/releases/download/v1.4/wordNav-1.4.nvda-addon",
+	"wordnav" => "https://github.com/mltony/nvda-word-nav/releases/download/v1.7/wordNav-1.7.nvda-addon",
 	"zoom" => "zoomEnhancements-1.1.1.nvda-addon",
 );
 
