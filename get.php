@@ -8,7 +8,7 @@ $addons = array(
 	"audiochart" => "https://github.com/mltony/nvda-audio-chart/releases/download/v1.3/audioChart-1.3.nvda-addon",
 	"bc" => "bitChe-2.8.nvda-addon",
 	"bc-dev" => "bitChe-2.8.nvda-addon",
-	"beepkeyboard" => "https://github.com/davidacm/beepKeyboard/releases/download/1.7/beepKeyboard-1.7.nvda-addon",
+	"beepkeyboard" => "https://github.com/davidacm/beepKeyboard/releases/download/1.8/beepKeyboard-1.8.nvda-addon",
 	"bgt" => "https://github.com/sykesman/NVDA-BGT/releases/download/1.0-dev/bgt_lullaby-1.0-dev.nvda-addon",
 	"brlext" => "https://andreabc.net/projects/NVDA_addons/BrailleExtender/latest",
 	"brlext-dev" => "https://andreabc.net/projects/NVDA_addons/BrailleExtender/latest?channel=dev",
