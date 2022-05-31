@@ -72,6 +72,7 @@ $addons = array(
 	"killnvda" => "https://github.com/tspivey/killNVDA/releases/download/v0.2/killNVDA-0.2.nvda-addon",
 	"lambda" => "https://github.com/lambda-nvda/lambdaNvda/releases/download/1.4.1/lambda-1.4.1.nvda-addon",
 	"lambda-dev" => "https://github.com/lambda-nvda/lambdaNvda/releases/download/1.4.1/lambda-1.4.1.nvda-addon",
+	"mathcat" => "https://github.com/NSoiffer/MathCATForPython/releases/download/v.0.1.14/MathCAT-0.1.14.nvda-addon",
 	"mp3dc" => "https://github.com/abdel792/mp3DirectCut/releases/download/v21.11/mp3DirectCut-21.11.nvda-addon",
 	"mp3dc-dev" => "https://github.com/abdel792/mp3DirectCut/releases/download/v21.11-dev/mp3DirectCut-21.11-dev.nvda-addon",
 	"mirc" => "mirc-1.6.nvda-addon",
