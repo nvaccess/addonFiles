@@ -156,7 +156,7 @@ $addons = array(
 	"wetp" => "https://www.nvda.it/files/plugin/weather_plus8.9.nvda-addon",
 	"winmag" => "https://github.com/CyrilleB79/winMag/releases/download/V2.0/winMag-2.0.nvda-addon",
 	"winmag-dev" => "https://github.com/CyrilleB79/winMag/releases/download/V2.0/winMag-2.0.nvda-addon",
-	"winwizard" => "https://github.com/lukaszgo1/winWizard/releases/download/V5.0.3/winWizard-5.0.3.nvda-addon",
+	"winwizard" => "https://github.com/lukaszgo1/winWizard/releases/download/V5.0.4/winWizard-5.0.4.nvda-addon",
 	"wordnav" => "https://github.com/mltony/nvda-word-nav/releases/download/v1.7/wordNav-1.7.nvda-addon",
 	"zoom" => "https://github.com/mohammad-suliman/zoom-enhancements/releases/download/v1.1.2/zoomEnhancements-1.1.2.nvda-addon",
 );
