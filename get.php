@@ -80,6 +80,7 @@ $addons = array(
 	"moz" => "https://github.com/javidominguez/MozillaScripts/releases/download/1.16/Mozilla-1.16.nvda-addon",
 	"msedge" => "https://github.com/beqabeqa473/MSEdgeDiscardAnnouncements/releases/download/v0.5/MSEdgeDiscardAnnouncements-0.5.nvda-addon",
 	"mush" => "mushClient-1.3.nvda-addon",
+	"newfon" => "https://github.com/DraganRatkovich/newfon/releases/download/2022.04.16/newfon-2022.04.16.nvda-addon",
 	"nb" => "https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v5.1/noBeepsSpeechMode-5.1.nvda-addon",
 	"nb-old" => "https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v4.0/noBeepsSpeechMode-4.0.nvda-addon",
 	"NotepadPlusPlus" => "https://files.derekriemer.com/NotepadPlusPlus-2022.05.1.nvda-addon",
