@@ -82,6 +82,7 @@ $addons = array(
 	"mush" => "mushClient-1.3.nvda-addon",
 	"nb" => "https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v5.1/noBeepsSpeechMode-5.1.nvda-addon",
 	"nb-old" => "https://github.com/ABuffEr/noBeepsSpeechMode/releases/download/v4.0/noBeepsSpeechMode-4.0.nvda-addon",
+	"newfon" => "https://github.com/DraganRatkovich/newfon/releases/download/2022.04.16/newfon-2022.04.16.nvda-addon",
 	"NotepadPlusPlus" => "https://files.derekriemer.com/NotepadPlusPlus-2022.05.1.nvda-addon",
 	"numpadNav" => "https://github.com/opensourcesys/numpadNavMode/releases/download/1.5/numpadNavMode-1.5.nvda-addon",
 	"nvda3208" => "https://github.com/josephsl/addonUpdater/releases/download/22.07/addonUpdater-22.07.nvda-addon",
