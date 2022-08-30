@@ -1,5 +1,6 @@
 <?php
 $addons = array(
+	"smb" => "https://github.com/Sao-Mai-Center/SMB/releases/download/22.8/SMB-22.8.nvda-addon",
 	"access8math" => "https://github.com/tsengwoody/Access8Math/releases/download/v3.3/Access8Math-3.3.nvda-addon",
 	"addonshelp" => "https://github.com/ruifontes/addonsHelp/releases/download/2022.03/addonsHelp-2022.03.nvda-addon",
 	"appdict" => "https://github.com/ruifontes/applicationDictionary-/releases/download/2022.03.26/applicationDictionary-2022.03.26.nvda-addon",
