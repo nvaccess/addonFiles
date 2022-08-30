@@ -51,6 +51,7 @@ $addons = array(
 	"emo" => "https://github.com/nvdaes/emoticons/releases/download/15.1/emoticons-15.1.nvda-addon",
 	"emo-dev" => "https://github.com/nvdaes/emoticons/releases/download/15.0-dev/emoticons-15.0-dev.nvda-addon",
 	"emo-o" => "https://github.com/nvdaes/emoticons/releases/download/6.5/emoticons-6.5.nvda-addon",
+	"enhancedannotations" => "https://github.com/nvdaes/enhancedAnnotations/releases/download/1.0/enhancedAnnotations-1.0.nvda-addon",
 	"epr" => "https://github.com/davidacm/EnhancedPhoneticReading/releases/download/1.1.3/EnhancedPhoneticReading-1.1.3.nvda-addon",
 	"epr-dev" => "https://github.com/davidacm/EnhancedPhoneticReading/releases/download/1.1.3/EnhancedPhoneticReading-1.1.3.nvda-addon",
 	"etn" => "https://github.com/CoBC/easyTableNavigator-1/releases/download/v2.3/easyTableNavigator-v2.3.nvda-addon",
