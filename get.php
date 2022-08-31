@@ -1,7 +1,6 @@
 <?php
 $addons = array(
-	"smb" => "https://github.com/Sao-Mai-Center/SMB/releases/download/22.8/SMB-22.8.nvda-addon",
-	"access8math" => "https://github.com/tsengwoody/Access8Math/releases/download/v3.3/Access8Math-3.3.nvda-addon",
+		"access8math" => "https://github.com/tsengwoody/Access8Math/releases/download/v3.3/Access8Math-3.3.nvda-addon",
 	"addonshelp" => "https://github.com/ruifontes/addonsHelp/releases/download/2022.03/addonsHelp-2022.03.nvda-addon",
 	"appdict" => "https://github.com/ruifontes/applicationDictionary-/releases/download/2022.03.26/applicationDictionary-2022.03.26.nvda-addon",
 	"ath" => "https://github.com/mush42/Audio-Themes-NVDA-Add-on/releases/download/v5.1/AudioThemes3D-5.1.nvda-addon",
@@ -124,6 +123,7 @@ $addons = array(
 	"scrsw" => "https://github.com/javidominguez/screenshots/releases/download/1.0/screenshots-1.0.nvda-addon",
 	"searchwith" => "https://github.com/ibrahim-s/searchWith/releases/download/v2.1/searchWith-2.1.nvda-addon",
 	"sentencenav" => "https://github.com/mltony/nvda-sentence-nav/releases/download/v2.12/SentenceNav-2.12.nvda-addon",
+	"smb" => "https://github.com/Sao-Mai-Center/SMB/releases/download/22.8/SMB-22.8.nvda-addon",
 	"soundsplitter" => "https://github.com/josephsl/soundSplitter/releases/download/22.03/soundSplitter-22.03.1.nvda-addon",
 	"spie" => "https://www.nvaccess.org/files/nvda-addons/speechPlayerInEspeak-0.4.nvda-addon",
 	"splogger" => "https://github.com/opensourcesys/speechLogger/releases/download/22.2.1/speechLogger-22.2.1.nvda-addon",
