@@ -133,6 +133,7 @@ $addons = array(
 	"sps" => "https://github.com/jscholes/nvda-speech-history/releases/download/v2022.1/speechHistory-2022.1.nvda-addon",
 	"st" => "https://github.com/ruifontes/systrayList/releases/download/2022.03/systrayList-2022.03.nvda-addon",
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.05/switchSynth-1.05.nvda-addon",
+	"sc" => "https://github.com/brlkid/Spotify-Communicator-for-NVDA/releases/download/v1.0/Spotify.Communicator-1.0.nvda-addon"
 	"spp" => "https://github.com/tspivey/speakPasswords/releases/download/v1.01/speakPasswords-1.01.nvda-addon",
 	"synthrings" => "https://github.com/davidacm/synthRingSettingsSelector/releases/download/1.1/synthRingSettingsSelector-1.1.nvda-addon",
 	"tbx" => "https://github.com/ABuffEr/toolbarsExplorer/releases/download/v1.6/toolbarsExplorer-1.6.nvda-addon",
