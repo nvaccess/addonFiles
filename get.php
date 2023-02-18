@@ -155,7 +155,7 @@ $addons = array(
 	"vlc" => "https://github.com/javidominguez/VLC/releases/download/2.14/VLC-2.14.nvda-addon",
 	"vlc-dev" => "https://github.com/javidominguez/VLC/releases/download/2.13/VLC-2.13.nvda-addon",
 	"vent" => "Ventrilo-1.0-dev.nvda-addon",
-	"vocalizer" => "https://github.com/ruifontes/vocalizer_expressive_driver/releases/download/3.1.8/vocalizer_expressive_driver-3.1.8.nvda-addon",
+	"vocalizerexpressive" => "https://github.com/ruifontes/vocalizer_expressive_driver/releases/download/3.1.8/vocalizer_expressive_driver-3.1.8.nvda-addon",
 	"w10" => "https://github.com/josephsl/wintenApps/releases/download/23.02/wintenApps-23.02.nvda-addon",
 	"w10-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wc" => "https://github.com/ruifontes/wordCount/releases/download/2022.03/wordCount-2022.03.nvda-addon",
