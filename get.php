@@ -124,6 +124,7 @@ $addons = array(
 	"scrsw" => "https://github.com/javidominguez/screenshots/releases/download/2.0/screenshots-2.0.nvda-addon",
 	"searchwith" => "https://github.com/ibrahim-s/searchWith/releases/download/v2.2/searchWith-2.2.nvda-addon",
 	"sentencenav" => "https://github.com/mltony/nvda-sentence-nav/releases/download/v2.12/SentenceNav-2.12.nvda-addon",
+	"skype" => "https://www.dlee.org/skype/NVDA/skype.nvda-addon",
 	"smb" => "https://github.com/Sao-Mai-Center/SMB/releases/download/22.8/SMB-22.8.nvda-addon",
 	"soundsplitter" => "https://github.com/josephsl/soundSplitter/releases/download/23.01/soundSplitter-23.01.nvda-addon",
 	"spie" => "https://www.nvaccess.org/files/nvda-addons/speechPlayerInEspeak-0.4.nvda-addon",
