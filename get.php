@@ -136,6 +136,7 @@ $addons = array(
 	"sws" => "https://github.com/tspivey/switchSynth/releases/download/v1.05/switchSynth-1.05.nvda-addon",
 	"spp" => "https://github.com/tspivey/speakPasswords/releases/download/v1.01/speakPasswords-1.01.nvda-addon",
 	"synthrings" => "https://github.com/davidacm/synthRingSettingsSelector/releases/download/1.1/synthRingSettingsSelector-1.1.nvda-addon",
+	"tbp" => "https://github.com/RPTools-org/ThunderbirdPlus/releases/download/v4.5/ThunderbirdPlus-v4.5-TB102.nvda-addon",
 	"tbx" => "https://github.com/ABuffEr/toolbarsExplorer/releases/download/v1.6/toolbarsExplorer-1.6.nvda-addon",
 	"tbx-dev" => "https://github.com/ABuffEr/toolbarsExplorer/releases/download/20220409-dev/toolbarsExplorer-20220409-dev.nvda-addon",
 	"textnav" => "https://github.com/mltony/nvda-text-nav/releases/download/v1.6/textnav-1.6.nvda-addon",
