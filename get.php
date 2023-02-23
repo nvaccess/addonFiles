@@ -62,6 +62,7 @@ $addons = array(
 	"fh-dev" => "https://github.com/nvdajp/focusHighlight/releases/download/6.6/focusHighlight-6.6.nvda-addon",
 	"gc" => "https://github.com/nvda-es/goldenCursor/releases/download/6.1.1/goldenCursor-6.1.1.nvda-addon",
 	"gc-dev" => "https://github.com/nvda-es/goldenCursor/releases/download/6.1.1/goldenCursor-6.1.1.nvda-addon",
+	"gl" => "https://github.com/nvdaaddons/nvdaaddons.github.io/wiki/guideLines",
 	"gwv" => "https://github.com/josephsl/goldWave/releases/download/23.02/goldwave-23.02.1.nvda-addon",
 	"ibir" => "https://github.com/SamKacer/IgnoreBlanksIndentation/releases/download/v0.3/ignoreBlanksIndentationReporting-0.3.nvda-addon",
 	"it" => "https://github.com/beqabeqa473/instantTranslate/releases/download/v4.4.3/instantTranslate-4.4.3.nvda-addon",
