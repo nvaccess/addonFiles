@@ -157,7 +157,7 @@ $addons = array(
 	"vocalizerexpressive" => "https://github.com/ruifontes/vocalizer_expressive_driver/releases/download/3.1.8/vocalizer_expressive_driver-3.1.8.nvda-addon",
 	"virtualaudiocable" => "https://www.dlee.org/vac/NVDA/vac.nvda-addon",
 	"vocalizerautomotive" => "https://github.com/ruifontes/vocalizer_automotive_driver/releases/download/2.1.4/vocalizer_automotive_driver-2.1.4.nvda-addon",
-	"w10" => "https://github.com/josephsl/wintenApps/releases/download/23.02/wintenApps-23.02.nvda-addon",
+	"w10" => "https://github.com/josephsl/wintenApps/releases/download/23.03/wintenApps-23.03.nvda-addon",
 	"w10-dev" => "https://www.josephsl.net/files/nvdaaddons/getupdate.php?file=w10-dev",
 	"wc" => "https://github.com/ruifontes/wordCount/releases/download/2022.03/wordCount-2022.03.nvda-addon",
 	"wetp" => "https://www.nvda.it/files/plugin/weather_plus9.4.nvda-addon",
