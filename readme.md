@@ -1,3 +1,9 @@
+# WARNING THIS REPOSITORY IS NOW ARCHIVED
+
+This repository is now archived, and has been replaced with [the addon store datastore repository](https://github.com/nvaccess/addon-datastore).
+To submit add-ons, please [follow these instructions](https://github.com/nvaccess/addon-datastore/blob/master/README.md#submitting-an-add-on-version).
+Add-ons in the new repository are still made available via get.php and addons.nvda-project.org.
+
 ### Purpose:
 
 This repo controls the file area of https://addons.nvda-project.org under files section.
